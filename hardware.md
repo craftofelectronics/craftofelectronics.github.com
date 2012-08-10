@@ -1,0 +1,29 @@
+---
+layout: default
+title: Hardware
+---
+
+# Requied Hardware
+
+If you are taking this course, or interested in working through the course yourself, you will need (at least) the following pieces of hardware.
+
+## The Berea Contrast House
+
+In this course, we will be working hands-on with electricity and electronics. The majority of our work will take place in the [Berea Contrast House]({{ site.base }}/bereacontrasthouse/). This model house was developed by [MakeCNC.com](http://makecnc.com/), ..., and ... in conjunction with [Berea College](http://berea.edu/).
+
+-- video --
+
+## The Freeduino
+
+We need a microcontroller (a small computer) to sense and automate our model homes. For this course, we will be using the [Arduino](http://arduino.cc/).
+
+<p align="center">
+<a href="http://www.flickr.com/photos/mellis/4782419367/" title="Arduino Duemilanove by dam, on Flickr"><img src="http://farm5.staticflickr.com/4139/4782419367_4104a01064.jpg" width="500" height="375" alt="Arduino Duemilanove"></a>
+</p>
+
+The Arduino costs approximately $20. What makes it special is that the design is free and open. This means that no one "owns" the Arduino design, and that many people can make their own versions. In this course, we used the [Freeduino](http://www.freeduino.org/freeduino_open_designs.html), [purchased as a kit from NKC Electronics](http://store.nkcelectronics.com/freeduino-arduino-diecimila-compatible-board-complete-kit.html).
+
+<p align="center">
+<a href="http://www.flickr.com/photos/m4rlonj/4252648415/" title="Freeduino V1.22 by m4rlonj, on Flickr"><img src="http://farm5.staticflickr.com/4030/4252648415_8fce18f652.jpg" width="500" height="280" alt="Freeduino V1.22"></a>
+</p>
+

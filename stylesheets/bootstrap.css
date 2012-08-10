@@ -619,7 +619,7 @@ input,
 button,
 select,
 textarea {
-  font-size: 13px;
+  font-size: 16px;
   font-weight: normal;
   line-height: 18px;
 }
@@ -3786,7 +3786,7 @@ a.thumbnail:hover {
 }
 .label,
 .badge {
-  font-size: 10.998px;
+  font-size: 20px;
   font-weight: bold;
   line-height: 14px;
   color: #ffffff;

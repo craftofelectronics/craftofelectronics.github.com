@@ -7,10 +7,15 @@ title: Home
 
 Welcome to the *Craft of Electronics*. If you have never explored electricity and electronics before, and you enjoy making things, then this course was designed for you. We designed this course with three long-term goals in mind:
 
-1. **We want to build things**. If you can hold a pencil, you can build a circuit. *Learning to think with our hands* is an important part of how we learn electronics.
-1. **We need to plan**. We will begin by building things other people have designed, and (over time) learn how to design new things ourselves.
-1. **We want to be safe in everything we do**. Electricity is not dangerous... but people who do not respect electricity *are* dangerous. Safety is the most important thing you can learn in *Craft of Electronics*.
+<br/>
 
+1. **{% loz red We want to be safe in everything we do %}**. Electricity is not dangerous... but people who do not respect electricity *are* dangerous. Safety is the most important thing you can learn in *Craft of Electronics*.
+1. **{% loz green We want to build things %}**. If you can hold a pencil, you can build a circuit. *Learning to think with our hands* is an important part of how we learn electronics.
+1. **{% loz blue We need to plan %}**. We will begin by building things other people have designed, and (over time) learn how to design new things ourselves.
+
+Throughout the course, we will highlight when we are learning about {% loz red safety %}, focusing on {% loz green building %}, or {% loz blue designing %} circuits and systems.
+
+<br/>
 
 <h3>Authors and Contributors</h3>
 
