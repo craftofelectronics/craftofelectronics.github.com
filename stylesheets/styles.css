@@ -224,7 +224,7 @@ td {
 header {
 	/* background-color: #171717; */
 	color: #FDFDFB;
-  width:200px;
+  width:185px;
   float:left;
   position:fixed;
 	border: 1px solid #000;
@@ -268,15 +268,16 @@ a.name {
 header ul {
   list-style:none;
   padding:0;
+  margin-left: 10px;
 }
 
 header li {
 	list-style-type: none;
-  width:132px;
+  width:80%;
   height:15px;
-	margin-bottom: 12px;
+	margin-bottom: 8px;
 	line-height: 1em;
-	padding: 6px 6px 6px 10px;
+	padding: 6px 6px 6px 16px;
 
 /*
   // RED VERSION
