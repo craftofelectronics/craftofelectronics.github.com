@@ -9,11 +9,11 @@ Welcome to the *Craft of Electronics*. If you have never explored electricity an
 
 <br/>
 
-1. **{% loz red We want to be safe in everything we do %}**. Electricity is not dangerous... but people who do not respect electricity *are* dangerous. Safety is the most important thing you can learn in *Craft of Electronics*.
-1. **{% loz green We want to build things %}**. If you can hold a pencil, you can build a circuit. *Learning to think with our hands* is an important part of how we learn electronics.
-1. **{% loz blue We need to design solutions to problems %}**. We will begin by building things other people have designed, and (over time) learn how to design new things ourselves.
+1. **<span class="label label-important">We want to be safe in everything we do </span>**. Electricity is not dangerous... but people who do not respect electricity *are* dangerous. Safety is the most important thing you can learn in *Craft of Electronics*.
+1. **<span class="label label-success">We want to build things</span>**. If you can hold a pencil, you can build a circuit. *Learning to think with our hands* is an important part of how we learn electronics.
+1. **<span class="label label-info">We need to design solutions to problems </span>**. We will begin by building things other people have designed, and (over time) learn how to design new things ourselves.
 
-Throughout the course, we will highlight when we are learning about {% loz red safety %}, focusing on {% loz green building %}, or {% loz blue designing %} circuits and systems.
+Throughout the course, we will highlight when we are learning about <span class="label label-important">safety</span>, focusing on <span class="label label-success">building</span>, or <span class="label label-info">designing</span> circuits and systems.
 
 <!-- Jekyll Notes
 
