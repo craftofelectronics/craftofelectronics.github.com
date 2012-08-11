@@ -7,8 +7,6 @@ title: Home
 
 If you have never explored electricity and electronics before, and you enjoy making things, then this course was designed for you. We designed this course with three long-term goals in mind:
 
-<br/>
-
 1. **We want to be safe in everything we do**. <br/>
   People who do not respect electricity are dangerous to themselves and others. Safety is the most important thing you can learn in *Craft of Electronics*.
 1. **We want to build things**. <br/>
@@ -16,7 +14,6 @@ If you have never explored electricity and electronics before, and you enjoy mak
 1. **We want to design solutions to our own problems**. <br/>
   We study electricity and electronics because it enables us to better understand ourselves and our environment---and control that environment as well.
 
-<br/>
 
 Throughout the course, we will highlight when we are learning about <span class="label label-important">safety</span>, focusing on <span class="label label-success">building</span>, or <span class="label label-info">designing</span> circuits and systems.
 
