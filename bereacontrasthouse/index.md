@@ -41,12 +41,8 @@ completed Contrast House. It was a simple structure, approximately 20 feet by
 Although it is difficult to imagine a Contrast House being built in the middle
 of Manhattan island in New York City, we can compare the Contrast House to an
 apartment in the 300-block of Central Park West. It is not uncommon for
-apartments to cost hundreds of thousands of dollars; for example, this
-849 sq. ft. floorplan would, in 2012, set you back $835,000, costing approximately $983.51 per square foot.
-
-<p align="center">
-<img src="images/300-block-central-park-west.jpg" />
-</p>
+apartments to cost hundreds of thousands of dollars; for example, an
+849 sq. ft. apartment would, in 2012, set you back $835,000, costing approximately $983.51 per square foot.
 
 
 Despite the fact that half a century has
