@@ -34,6 +34,8 @@ title: Craft of Electronics (TAD265) Syllabus
   </tr>
 </table>
 
+[This website](http://craftofelectronics.org/) is considered authoritative in all ways. This syllabus is subject to change; changes will be announced and/or discussed in class. You are responsible for being aware of these changes, and how they effect you.
+
 ## Course Description
 
 ## Enduring Understandings
@@ -56,8 +58,6 @@ It might be that you remember more; at the least, you must leave this course hav
 ## Learning Outcomes
 
 ## Materials Online
-
-[This website](http://craftofelectronics.org/) is considered authoritative in all ways. This syllabus is subject to change; changes will be announced and/or discussed in class. You are responsible for being aware of these changes, and how they effect you.
 
 * We will use Moodle, provided by Berea College, for handing in assignments.
 * We will use [Dropbox](http://dropbox.com/) for making sure we never lose our work.
