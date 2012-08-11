@@ -1,0 +1,9 @@
+Spanning part of the text in a color lozenge.
+
+<span class="label label-important">
+<span class="label label-success">
+<span class="label label-info">
+
+<div class="alert alert-success">
+<div class="alert alert-success">
+<div class="alert alert-success">
