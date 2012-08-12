@@ -44,14 +44,11 @@ apartment in the 300-block of Central Park West. It is not uncommon for
 apartments to cost hundreds of thousands of dollars; for example, an
 849 sq. ft. apartment would, in 2012, set you back $835,000, costing approximately $983.51 per square foot.
 
+<img src="images/plans-cost.jpg" alt="25 cent plans" align="center"/>
 
 Despite the fact that half a century has
 passed, the plans developed by [MakeCNC](http://makecnc.com/) cost less today
 than the original plans for the Contrast House. We are making plans that you can cut out by hand (or, ideally, with a CNC laser or router) available for download for free.
-
-The original plans, for the record, cost $0.25.
-
-<img src="images/plans-cost.jpg" alt="25 cent plans" align="center"/>
 
 # Build Your Own
 
