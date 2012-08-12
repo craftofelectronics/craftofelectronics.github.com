@@ -30,6 +30,12 @@ the same time, architect Frank Lloyd Wright was completing a [private home in
 Madison, Wisconsin](http://www.usonia1.com/) that was to cost under $5,000... nearly ten times the cost
 of a Contrast House.
 
+<p align="center">
+  <img src="images/contrast-house-front-500.png" />
+  <br/>
+  <em>The Contrast House from the front.</em>
+</p>
+
 In the booklet "Glimpses of Berea College," we can see photographs of the
 completed Contrast House. It was a simple structure, approximately 20 feet by
 44 feet, with two bedrooms, a living room, kitchen, and laundry. At $650 in materials, the Berea Contrast House cost approximately $0.74 per square foot.
