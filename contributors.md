@@ -3,7 +3,9 @@ layout: default
 title: Contributors
 ---
 
-These pages, and much of the content related to this course, was written and/or created by [Matt Jadud](http://jadud.com/), Assistant Professor of Computer Science and Technology at Berea College.
+These pages, and much of the content related to this course, was written and/or
+created by [Matt Jadud](http://jadud.com/), Assistant Professor of Computer
+Science and Technology at Berea College.
 
 # Getting Involved
 
@@ -26,7 +28,7 @@ However, it also means that **you must share any changes you make**. This websit
 
 If you find anything that needs fixing, you can let us know, or (if you want) you can learn to use GitHub and submit the changes as a pull request.
 
-## Design Contributors
+## Course Design Contributors
 
 The initial design of this course was carried out at Berea College during the summer of 2012. Many people contributed to this work in a variety of ways.
 
@@ -45,6 +47,25 @@ The initial design of this course was carried out at Berea College during the su
 ## Flow
 
 The [Flow](http://github.com/craftofelectronics/flow/) programming environment builds on more than 25 years of work regarding concurrent and parallel languages. Flow targets the [Transterpreter](http://transterpreter.org/), a small, portable virtual machine, which executes [occam-pi](http://occam-pi.org/) bytecode on the Arduino (and other platforms). Without this infrastructure, Flow would not be possible. More about the projects that Flow builds upon (including downloads, source, and documentation) can be found online at [http://concurrency.cc/](http://concurrency.cc/).
+
+## The Logo
+  <img src="{{ site.base }}/images/craftofelectronics-logo/craftofelectronics-blue.png" align="right" style="padding-left: 10px;" />
+
+The Craft of Electronics logo was developed by Matt Jadud, and is made available under a CC-BY-SA 3.0 license. The typeface is [League Gothic](http://www.theleagueofmoveabletype.com/league-gothic), developed by the League of Movable Type, made available under the [Open Font License](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL).
+
+* **CRAFT** only <br/> 
+PDF: [black]({{ site.base }}/images/craftofelectronics-logo/craft-black.pdf), 
+[blue]({{ site.base }}/images/craftofelectronics-logo/craft-blue.pdf),
+ PNG: 
+[black]({{ site.base }}/images/craftofelectronics-logo/craft-black.png), 
+[blue]({{ site.base }}/images/craftofelectronics-logo/craft-blue.png)
+* **CRAFT of Electronics** <br/>
+PDF: [black]({{ site.base }}/images/craftofelectronics-logo/craftofelectronics-black.pdf), 
+[blue]({{ site.base }}/images/craftofelectronics-logo/craftofelectronics-blue.pdf),
+ PNG: 
+[black]({{ site.base }}/images/craftofelectronics-logo/craftofelectronics-black.png), 
+[blue]({{ site.base }}/images/craftofelectronics-logo/craftofelectronics-blue.png)
+
 
 ## Funding Support
 

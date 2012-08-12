@@ -15,7 +15,8 @@ If you have never explored electricity and electronics before, and you enjoy mak
   We study electricity and electronics because it enables us to better understand ourselves and our environment---and control that environment as well.
 
 
-Throughout the course, we will highlight when we are learning about <span class="label label-important">safety</span>, focusing on <span class="label label-success">building</span>, or <span class="label label-info">designing</span> circuits and systems.
+Throughout the course, we will highlight when we are learning about **safety**,
+focusing on **building**, or **designing** circuits and systems.
 
 <!-- Jekyll Notes
 
