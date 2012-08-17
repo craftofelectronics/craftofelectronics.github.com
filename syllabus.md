@@ -38,6 +38,30 @@ title: Craft of Electronics (TAD265) Syllabus
 
 ## Course Description
 
+Electrical Fundamentals is a study of the theory and techniques necessary for electrical and electronic systems and their associated equipment. Students will learn how to identify, calculate, measure, create, and repair basic electrical and electronic systems. These skills will be applied to a selection of practical projects that will challenge the students understanding of the material and problem solving/troubleshooting abilities. Topics may include AC/DC circuits, resistance, power, various components, and use of electrical measuring instruments. 
+Practical Reasoning with Quantitative Emphasis (PRQ).
+
+## In Plain Language
+
+We will study how to safely work with electricity and digital electronics to do
+study and control the world around us.
+
+Robot minions come in the second course. ([Ref.](http://www.youtube.com/watch?v=RFoYNVp6k8A))
+
+## Statement Regarding Disability
+
+Students who have a disability that may prevent them from fully demonstrating
+their abilities should contact Cindy Reed, MSW, LCSW, the Disability Services
+Coordinator at (859) 985-3212, or by email at <a
+href="mailto:cynthia_reed@berea.edu">cynthia_reed@berea.edu</a>, to discuss
+accommodations necessary to ensure full participation in this course.  Upon
+request, this syllabus can be made available in alternative forms.
+
+## Course Prerequisites
+
+Completion or waiver of MAT 012 or permission of instructor.
+
+
 ## Enduring Understandings
 
 If this was the *only* course in electricity and electronics you take at Berea College, and you never touch or study the subject again while you are a student, what do we hope you will remember 10 years from now?
@@ -55,7 +79,18 @@ If this was the *only* course in electricity and electronics you take at Berea C
 
 It might be that you remember more; at the least, you must leave this course having learned that you can work with electrical systems safely, but it takes attention and care on your part.
 
-## Learning Outcomes
+## Course Objectives
+
+* Demonstrate proper safety precautions related to equipment.
+* Define voltage, resistance, current amperage, direct current, alternating current, and power supply.
+* Identify electrical components and their associated values
+* Interpret and create schematic diagrams of electrical circuits
+* Explain the basic principles and operation of varied electrical/electronic components
+* Implement Ohm's Law to calculate voltage, current, and resistance problems.
+* Create, calculate, and service simple series, parallel, and series-parallel circuits.
+* Identify and explain the concepts of both DC and AC power systems and associated circuits.
+* Calculate values for AC and DC resistive, inductive, and capacitive components.
+* Correctly utilize various measurement tools to identify and measure results of AC and DC laboratory exercises.
 
 ## Materials Online
 
@@ -63,11 +98,18 @@ It might be that you remember more; at the least, you must leave this course hav
 * We will use [Dropbox](http://dropbox.com/) for making sure we never lose our work.
 * We will use [If This Then That (IFTTT)](http://ifttt.com/) to keep track of course announcements.
 
-## Required Text
+## Required Text and Materials
 
-The following texts are *required*:
+The following are *required*:
 
 1. Forrest M. Mims III, [Getting Started in Electronics](http://www.amazon.com/Getting-Started-Electronics-Forrest-Mims/dp/0945053282/ref=pd_sim_b_6)
+1. **A Freeduino Kit**. Pick up a voucher at the bookstore. Surrender it to Matt for a kit.
+1. A notebook.
+1. Safety Goggles.
+
+### Strongly Suggested
+
+1. A calculator.
 
 ### Further Reading
 
@@ -84,13 +126,55 @@ As students, you are expected to attend 7 events from the [Berea Convocation Ser
 * A.A. Burleigh: [The Long Climb to Freedom](http://www.berea.edu/convocations/events/2012-2013/founders-day-convocation.asp)
 * Dr. Lisa Dodson: [The Moral Underground: How Ordinary People Subvert an Unfair Economy](http://www.berea.edu/convocations/events/2012-2013/dr-lisa-dodson.asp)
 
-I recommend [The California Guitar Trio](http://www.berea.edu/convocations/events/2012-2013/california-guitar-trio.asp), but do not require you attend it.
+<!-- FIXME: Add link for Burleigh's Convo -->
 
-## Statement Regarding Disability
+I recommend [The California Guitar
+Trio](http://www.berea.edu/convocations/events/2012-2013/california-guitar-trio.asp),
+but do not require you attend it. I have also been told that A.A. Burleigh
+(Berea grad) will be excellent.
+ 
+## Grade Distribution
 
-Students who have a disability that may prevent them from fully demonstrating
-their abilities should contact Cindy Reed, MSW, LCSW, the Disability Services
-Coordinator at (859) 985-3212, or by email at <a
-href="mailto:cynthia_reed@berea.edu">cynthia_reed@berea.edu</a>, to discuss
-accommodations necessary to ensure full participation in this course.  Upon
-request, this syllabus can be made available in alternative forms.
+<table>
+<tr> <td> Work </td> <td> 60% </td> </tr>
+<tr> <td> Midterms </td> <td> 12% each </td> </tr>
+<tr> <td> Final </td> <td> 16% </td> </tr>
+</table>
+
+"Work" means work done in-class, homeworks, laboratories, presentations, etc.
+as assessed by the instructor, TAs, or (if appropriate) your peers. Put simply,
+"more than half of your grade comes from doing excellent work throughout the
+course."
+
+*These values subject to change up to the end of September.*
+
+## Attendance Policy
+
+Because we are often working collaboratively, missing class often negatively
+impacts others. **I reserve the right to subtract 5% from your final grade for
+every missed class.**
+
+Read that again. I'm not kidding.
+
+If you have a recognized, documented excuse (medical center, etc.), or have
+discussed the absence with me at least one week in advance (travel for
+interviews, etc.), no penalty will be assesed.
+
+For clarity: **you are expected to be in class**.
+
+## Grading Scale
+
+<table>
+<tr><td>100-92</td><td>A</td></tr>
+<tr><td>91-90</td><td>A-</td></tr>
+<tr><td>89-88</td><td>B+</td></tr>
+<tr><td>87-82</td><td>B </td></tr>
+<tr><td>81-80</td><td>B-</td></tr>
+<tr><td>79-78</td><td>C+</td></tr>
+<tr><td>77-72</td><td>C</td></tr>
+<tr><td>71-70</td><td>C-</td></tr>
+<tr><td>69-68</td><td>D+</td></tr>
+<tr><td>67-62</td><td>D</td></tr>
+<tr><td>61-60</td><td>D-</td></tr>
+<tr><td>59-0  </td><td>F</td></tr>
+</table>
