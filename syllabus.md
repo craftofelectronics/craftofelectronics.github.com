@@ -87,10 +87,12 @@ It might be that you remember more; at the least, you must leave this course hav
 * Interpret and create schematic diagrams of electrical circuits
 * Explain the basic principles and operation of varied electrical/electronic components
 * Implement Ohm's Law to calculate voltage, current, and resistance problems.
-* Create, calculate, and service simple series, parallel, and series-parallel circuits.
-* Identify and explain the concepts of both DC and AC power systems and associated circuits.
-* Calculate values for AC and DC resistive, inductive, and capacitive components.
+* *Create, calculate, and service simple series, parallel, and series-parallel circuits.*
+* *Identify and explain the concepts of both DC and AC power systems and associated circuits.*
+* *Calculate values for AC and DC resistive, inductive, and capacitive components.*
 * Correctly utilize various measurement tools to identify and measure results of AC and DC laboratory exercises.
+
+Italicised objectives may be expressed differently in the first offering of TAD 265.
 
 ## Materials Online
 
