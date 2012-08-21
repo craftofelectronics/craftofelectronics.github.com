@@ -4,31 +4,19 @@ title: Course Overview
 week: 1
 ---
 
-# Overview (Week {{ page.week }})
-
-We will start the semester by **challenging assumptions**. First, we explore an unexpected side of electronics, and then research the breadth of the craft of electronics.
-
-<p align="center"><br/>
-<a href="http://www.flickr.com/photos/brenbot/2936270498/" title="SIMI Night by brenbot, on Flickr"><img src="http://farm4.staticflickr.com/3195/2936270498_46ffa9ebf3.jpg" width="500" height="375" alt="SIMI Night"></a>
-</p>
-
-## Wednesday
-
-<div class="alert alert-success">
-  Hey! You made it to the first day of class!
-</div>
-
-## Thursday
-
-<div class="alert alert-error">
-  Ooh. There's going to be some work to do.
-</div>
-
-## Friday
-
-<div class="alert alert-info">
-  And, we'll discuss it, and then finish our assumption-challenging.
-</div>
-
-## Weekend
-
+* [Week 1](w00.html)
+* [Week 2](w01.html)
+* [Week 3](w02.html)
+* [Week 4](w03.html)
+* [Week 5](w04.html)
+* [Week 6](w05.html)
+* [Week 7](w06.html)
+* [Week 8](w07.html)
+* [Week 9](w08.html)
+* [Week 10](w09.html)
+* [Week 11](w10.html)
+* [Week 12](w11.html)
+* [Week 13](w12.html)
+* [Week 14](w13.html)
+* [Week 15](w14.html)
+* [Week 16](w15.html)
