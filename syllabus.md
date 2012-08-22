@@ -183,6 +183,10 @@ In years past, I used Chickering and Gamson's [Seven Principles of Good Undergra
 Electrical Fundamentals is a study of the theory and techniques necessary for electrical and electronic systems and their associated equipment. Students will learn how to identify, calculate, measure, create, and repair basic electrical and electronic systems. These skills will be applied to a selection of practical projects that will challenge the students understanding of the material and problem solving/troubleshooting abilities. Topics may include AC/DC circuits, resistance, power, various components, and use of electrical measuring instruments. 
 Practical Reasoning with Quantitative Emphasis (PRQ).
 
+## Evening Lab / Support
+
+The CS Lab is open Sunday through Thursday from 7:30 to 9:00 PM (except on evenings of convocations). The primary Computer SCience teaching assistant and several other TAs will be able to answer questions about the content in the course during consultations in their  Lab hours. You are strongly encouraged to make use of the help available in the Lab, as well as in the instructors' office hours. Best results are obtained trying to solve problems before asking for help, and you should be prepared to show what you have already tried. Topics in this course build throughout the course, so you should be sure to do your best to keep up with the class, so as to not fall behind. No question to which you do not know the answer is "dumb" unless it goes unanswered because it remained unasked. 
+
 ## Statement Regarding Disability
 
 Students who have a disability that may prevent them from fully demonstrating
