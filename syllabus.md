@@ -28,41 +28,16 @@ title: Craft of Electronics (TAD265) Syllabus
       {% include obfuscated-email.html %}
     </td>
   </tr>
-  <tr>
-    <td>Teaching Associates</td>
-    <td>TBA</td>
-  </tr>
 </table>
 
-[This website](http://craftofelectronics.org/) is considered authoritative in all ways. This syllabus is subject to change; changes will be announced and/or discussed in class. You are responsible for being aware of these changes, and how they effect you.
+Email is a good way to reach me, so please feel free to email me if you have questions or would like to schedule a time to meet outside of office hours. Please also feel welcome to drop by in case I happen to be in my office.
 
-## Course Description
+This is the first time *Craft of Electronics* has been offered, and [with contributions from many](contributors.html), this course has been designed to be distinctly Berean. It is possible that the syllabus will need to change as we progress through the semester; if that is the case, we will discuss those changes as a class, thus making the course better for us and for students who take the course in the future.
 
-Electrical Fundamentals is a study of the theory and techniques necessary for electrical and electronic systems and their associated equipment. Students will learn how to identify, calculate, measure, create, and repair basic electrical and electronic systems. These skills will be applied to a selection of practical projects that will challenge the students understanding of the material and problem solving/troubleshooting abilities. Topics may include AC/DC circuits, resistance, power, various components, and use of electrical measuring instruments. 
-Practical Reasoning with Quantitative Emphasis (PRQ).
+## What This Course is About
 
-## In Plain Language
-
-We will study how to safely work with electricity and digital electronics to do
+We will study how to safely work with electricity and digital electronics to
 study and control the world around us.
-
-Robot minions come in the second course. ([Ref.](http://www.youtube.com/watch?v=RFoYNVp6k8A))
-
-## Statement Regarding Disability
-
-Students who have a disability that may prevent them from fully demonstrating
-their abilities should contact Cindy Reed, MSW, LCSW, the Disability Services
-Coordinator at (859) 985-3212, or by email at <a
-href="mailto:cynthia_reed@berea.edu">cynthia_reed@berea.edu</a>, to discuss
-accommodations necessary to ensure full participation in this course.  Upon
-request, this syllabus can be made available in alternative forms.
-
-## Course Prerequisites
-
-Completion or waiver of MAT 012 or permission of instructor.
-
-
-## Enduring Understandings
 
 If this was the *only* course in electricity and electronics you take at Berea College, and you never touch or study the subject again while you are a student, what do we hope you will remember 10 years from now?
 
@@ -74,10 +49,6 @@ If this was the *only* course in electricity and electronics you take at Berea C
   We will learn to think with our hands as we build electrical systems; if you can hold a pencil, you can build electronics.
 1. **We want to design solutions to our own problems**. <br/>
   We study electricity and electronics because it enables us to better understand ourselves and our environment---and control that environment as well.
-
-<br/>
-
-It might be that you remember more; at the least, you must leave this course having learned that you can work with electrical systems safely, but it takes attention and care on your part.
 
 ## Course Objectives
 
@@ -109,12 +80,6 @@ The following are *required*:
 1. A notebook.
 1. Safety Goggles.
 
-### Strongly Suggested
-
-1. A calculator.
-
-### Further Reading
-
 The following texts are *completely optional*. This means they will add to your experience in the course (if you read them), but I will not be assigning anything from them. Put another way: **you do not need to buy these books**. You might want to, though.
 
 1. Black and Decker, [The Complete Guide to Wiring, 5th Edition.](http://www.amazon.com/Black-Decker-Complete-Guide-Wiring/dp/1589236017/ref=sr_1_1?s=books&ie=UTF8&qid=1344707680&sr=1-1&keywords=wiring)
@@ -124,17 +89,22 @@ The following texts are *completely optional*. This means they will add to your 
 
 As students, you are expected to attend 7 events from the [Berea Convocation Series](http://www.berea.edu/convocations/) per term. For this course, I am requiring that you attend **three** of these convocations.
 
-* Dr. Lyle Roelofs: [Why Berea?](http://www.berea.edu/convocations/events/2012-2013/dr-lyle-roelofs.asp)
-* A.A. Burleigh: [The Long Climb to Freedom](http://www.berea.edu/convocations/events/2012-2013/founders-day-convocation.asp)
-* Dr. Lisa Dodson: [The Moral Underground: How Ordinary People Subvert an Unfair Economy](http://www.berea.edu/convocations/events/2012-2013/dr-lisa-dodson.asp)
-
-<!-- FIXME: Add link for Burleigh's Convo -->
+* Dr. Lyle Roelofs (Aug 30, 3PM): [Why Berea?](http://www.berea.edu/convocations/events/2012-2013/dr-lyle-roelofs.asp)<br/>
+Why this convo? Because Dr. Roelofs is our new President, and we should get to know him. A scientist of deep faith, he and his wife join us to listen and lead.
+* Hasan Davis '92 (Oct 4, 3PM): [A.A. Burleigh: The Long Climb to Freedom](http://www.berea.edu/convocations/events/2012-2013/founders-day-convocation.asp)<br/>
+[Hasan Davis](http://www.hasandavis.com/Hasan.html) is a Berea grad who has pursued his passions, and they have led him many fascinating and amazing places. Likewise, A. A. Burleigh (whom Davis will portray) is another Berea graduate---the first African-American to graduate from Berea College. This convo is about the power of passions, and how (in their pursuit), you are capable of anything.
+* Dr. Lisa Dodson (Nov 29, 3PM): [The Moral Underground: How Ordinary People Subvert an Unfair Economy](http://www.berea.edu/convocations/events/2012-2013/dr-lisa-dodson.asp)<br/>
+You do not need to be Apple Computer to transform the world through digital electronics. The *craft* of electronics provides an avenue by which we might transform our world, and  in doing so, support ourselves and others. Dr. Dodson provides a context for these ideas.
 
 I recommend [The California Guitar
 Trio](http://www.berea.edu/convocations/events/2012-2013/california-guitar-trio.asp),
 but do not require you attend it. I have also been told that A.A. Burleigh
 (Berea grad) will be excellent.
- 
+  
+## Course Prerequisites
+
+Completion or waiver of MAT 012 or permission of instructor.
+
 ## Grade Distribution
 
 <table>
@@ -148,35 +118,76 @@ as assessed by the instructor, TAs, or (if appropriate) your peers. Put simply,
 "more than half of your grade comes from doing excellent work throughout the
 course."
 
-*These values subject to change up to the end of September.*
-
 ## Attendance Policy
 
-Because we are often working collaboratively, missing class often negatively
-impacts others. **I reserve the right to subtract 5% from your final grade for
-every missed class.**
+We will, as a class, craft an attendance policy that reflects our individual commitment to learning as well as supporting our peers and the community in our classroom.
 
-Read that again. I'm not kidding.
+## Technology Policies 
 
-If you have a recognized, documented excuse (medical center, etc.), or have
-discussed the absence with me at least one week in advance (travel for
-interviews, etc.), no penalty will be assesed.
+Much of the work in this course will require use of the computer, so these policies are designed to help you better understand how to be effective in a technology-rich environment. 
 
-For clarity: **you are expected to be in class**.
+* **Laptop and Software**: We will regularly make use of laptops during class, and you are expected to have them unless explicitly stated otherwise.
+* **Unapproved Technology**: Technology often disrupts, rather than enhances, our day-to-day lives. Games are never part of a constructive learning experience; email and messaging programs/SMS are only appropriate when they are directly related to our work in class. Cell phones and pagers disrupt your peers, and should be turned off before class. **We will decide, as a class, what is an appropriate penalty for violation of this policy.**
+* **Communication**: The course website is your primary source for information about CRAFToE; our Moodle site will be used for posting grades and assignment submission. Messages about the course will often be sent by email. These are all mechanisms you would likely use in a professional position in the real world (corporate websites, internal content management systems, and email)---you are, likewise, expected to use them in a responsible and professional manner in this course.
+* **Backups**: All students are expected to back-up their work on a daily basis, which includes laboratories, assignments, and quizzes. The best way to do this is to store a copy of all work in a cloud service such as Dropbox, SkyDrive, Google Drive, or to use a DVD, flash drive, or some other media. Storing multiple copies of something on your laptop is not a backup. I will not be sympathetic to lost work in any way, shape, or form.
+* **Exceptions**: Exceptions to any of these technology policies will be considered on an individual case-by-case basis but will only be granted under extreme circumstances. 
 
+## Collaboration and Teamwork
+
+Team participation is a proven and useful means by which students can learn material. Further, it is usually the first thing employers ask for of students in computing and electronics: *we need people who can work on teams*. CRAFToE was designed for you to work with a classmate throughout the term.
+
+* All in-class work in CRAFToE is collaborative unless otherwise specified. When you work with one or more teammates on a project, it is critical that you always clearly identify:
+  1. The names of all contributors.
+  1. The work that each individual contributed.
+  1. A peer evaluation. (More TBA.)
+* Homework is assumed to be individual in all cases.
+* All assignments and labs should be handed in with the author(s) acknowledging all of the help received throughout the assignment. (This includes significant help received from the instructors or in the TAs).
+
+Please be careful to conform to these standards for teamwork, since they are designed to encourage good learning practices. (Furthermore, copying another person's work or otherwise failing to adhere to these standards may even result in a charge of academic dishonesty.) **I will make use of the institutional policies laid down regarding academic dishonesty.** In the real world, plagiarism and claiming others' work as your own could result in you losing your job. Our goal is to support you in your learning, and copying the work of others (or inappropriately reusing work found on the WWW) never constitutes good learning. **CITING YOUR WORK is always, always essential.**
+
 ## Grading Scale
 
-<table>
-<tr><td>100-92</td><td>A</td></tr>
-<tr><td>91-90</td><td>A-</td></tr>
-<tr><td>89-88</td><td>B+</td></tr>
-<tr><td>87-82</td><td>B </td></tr>
-<tr><td>81-80</td><td>B-</td></tr>
-<tr><td>79-78</td><td>C+</td></tr>
-<tr><td>77-72</td><td>C</td></tr>
-<tr><td>71-70</td><td>C-</td></tr>
-<tr><td>69-68</td><td>D+</td></tr>
-<tr><td>67-62</td><td>D</td></tr>
-<tr><td>61-60</td><td>D-</td></tr>
-<tr><td>59-0  </td><td>F</td></tr>
-</table>
+The [Berea College grading scale](http://www.berea.edu/cataloghandbook/academics/aps/grades/gradingscale.asp) makes clear that:
+
+* An **A** represents **excellent** work,
+* A **B** represents **good** work, and
+* A **C** represents **competent** work.
+
+**Excellent** work means that it is free of typographic errors, is well organized, submitted on time, and shows clear attention to detail and a desire to produce the best work possible. It is likely that you will need to complete work in advance of the deadline and discuss it with me before you submit it, revising your assignment based on feedback. It is likely that you will never be able to do work the night before it is due and produce something of excellent quality.
+
+**Good** work may have minor grammatical errors, but still shows commitment to producing the best work possible. It is organized, is not late, but it is possible you did not seek help and revision before you submitted your work. If you're exceptional, you might (once in a [blue moon](http://www.youtube.com/watch?v=cxjaQV0ob2E)), pull off good work at the last minute. But, don't count on it.
+
+Most work that any of us do is **competent**. Care and effort is needed even to get to this stage, but it is likely that you still have errors, could revise more, and did not give the work as much time as it needed to get to this point. Competent work is something you should be proud of, but I always ask that you strive to do better.
+
+* An **A** is in the range of 91% to 100%
+* A **B** is in the range of 81% to 90%
+* A **C** is in the range of 71% to 80%
+* A **D** is in the range of 61% to 70%
+* An **F** is a grade of 60% or lower.
+
+A **plus** may be earned through exceptional attendance, teamwork, professionalism and collegiality, and participation. A **plus** is completely at the discretion of the instructor.
+
+## Class Atmosphere
+
+I want many things for students in my classes, and I very much want you to help me achieve these goals. 
+
+* I want our laboratory to be a relaxed environment where you are **comfortable trying new things** and (sometimes) failing. By "failure" I do not mean "receiving an F," but I do mean that you try things, make mistakes, and learn from them. The last bit---learning from our mistakes---is the critical part. Neither I, nor you, nor your classmates should put down or belittle a classmate for trying.
+* I want you to **look forward to CRAFToE because it is fun**. We should be comfortable with each other---humor and laughter makes the day go faster and better. That said...
+* We should **work hard, and be proud of that effort**. For me, a "fun" day is one where I've worked hard and improved myself. I have done my best to design a course that will be fun because it challenges us to work hard and do new and interesting things.
+* **Respect matters**. Respect for each-other, regardless of where we are from and where we are on our life journey is of utmost importance. I have a great deal of respect for your effort as a student; I show that respect by challenging you to extend your limits, and supporting you to the best of my ability as you take risks and engage with the course throughout the semester. 
+
+In years past, I used Chickering and Gamson's [Seven Principles of Good Undergraduate Education](http://www.uis.edu/liberalstudies/students/documents/sevenprinciples.pdf) (PDF) as my guide; in many ways, they still apply. However, as Bereans, we are all committed to the eight [Great Commitments](http://www.berea.edu/about/documents/GreatCommitments.pdf) (PDF); I ask that we aspire to those as we challenge and learn with each other in this course.
+
+## Catalogue Description
+
+Electrical Fundamentals is a study of the theory and techniques necessary for electrical and electronic systems and their associated equipment. Students will learn how to identify, calculate, measure, create, and repair basic electrical and electronic systems. These skills will be applied to a selection of practical projects that will challenge the students understanding of the material and problem solving/troubleshooting abilities. Topics may include AC/DC circuits, resistance, power, various components, and use of electrical measuring instruments. 
+Practical Reasoning with Quantitative Emphasis (PRQ).
+
+## Statement Regarding Disability
+
+Students who have a disability that may prevent them from fully demonstrating
+their abilities should contact Cindy Reed, MSW, LCSW, the Disability Services
+Coordinator at (859) 985-3212, or by email at <a
+href="mailto:cynthia_reed@berea.edu">cynthia_reed@berea.edu</a>, to discuss
+accommodations necessary to ensure full participation in this course.  Upon
+request, this syllabus can be made available in alternative forms.
