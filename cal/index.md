@@ -5,8 +5,9 @@ week: 1
 ---
 
 * [Week 1](w00.html)
-  * [Wednesday](w00.html#Wednesday)
-  * [Friday](w00.html#Friday)
+  * [Wednesday](w00.html#Wednesday): Fix the Lab
+  * [Friday](w00.html#Friday): Build a Monster
+  * [Weekend](w00.html#Weekend): [Assignment One](http://goo.gl/WBtl7), due before class on Monday.
 * [Week 2](w01.html)
 * [Week 3](w02.html)
 * [Week 4](w03.html)
