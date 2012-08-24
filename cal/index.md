@@ -5,6 +5,8 @@ week: 1
 ---
 
 * [Week 1](w00.html)
+  * [Wednesday](w00.html#Wednesday)
+  * [Friday](w00.html#Friday)
 * [Week 2](w01.html)
 * [Week 3](w02.html)
 * [Week 4](w03.html)
