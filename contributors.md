@@ -66,6 +66,11 @@ PDF: [black]({{ site.base }}/images/craftofelectronics-logo/craftofelectronics-b
 [black]({{ site.base }}/images/craftofelectronics-logo/craftofelectronics-black.png), 
 [blue]({{ site.base }}/images/craftofelectronics-logo/craftofelectronics-blue.png)
 
+## This Website
+
+* The arrows in the calendar come from the [Picol collection](http://picol.org/icon_library.php), and are available under a Creative Commons BY-SA license.
+* The template...
+* The navigation icons...
 
 ## Funding Support
 
