@@ -1,5 +1,6 @@
 # Server config
 auto: true
+permalink: announce/:categories/:year/:month/:day/:title/
 
 # Site configuration
 title: Craft of Electronics

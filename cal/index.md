@@ -4,6 +4,8 @@ title: Course Overview
 week: 1
 ---
 
+# Course Overview
+
 * [Week 1](w00.html)
   * [Wednesday](w00.html#Wednesday): Fix the Lab
   * [Friday](w00.html#Friday): Build a Monster
