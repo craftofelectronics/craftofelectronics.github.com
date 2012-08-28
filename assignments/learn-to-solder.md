@@ -60,7 +60,7 @@ Finally, you should come somewhat prepared to begin working on your Arduino.
 
 http://www.youtube.com/playlist?list=PLDDC57FBF3063BEFF
 
-This playlist contains 5 movies that are 18 minutes long. I'd suggest watching only the first video in advance, and you can watch the other videos while you are doing the build.
+This playlist contains 5 movies that are 18 minutes long (in total). I'd suggest watching only the first video in advance, and you can watch the other videos while you are doing the build.
 
 ### Taking Notes
 
@@ -68,7 +68,7 @@ I don't think you need to take any notes on these videos.
 
 # Submission
 
-Before class begins on Friday, either myself or Tachu need to look at your notes and sign off that you are prepared to begin working on your Freeduino. By this, I mean that I would like to see notes in your notebook that are:
+Before class begins on Friday, either myself or the TA need to look at your notes and sign off that you are prepared to begin working on your Freeduino. By this, I mean that I would like to see notes in your notebook that are:
 
 1. **Well organized**. At the least, they need to be legible. 
 2. **Comprehensive**. At the least, your notes should demonstrate you know what soldering is.
