@@ -58,7 +58,7 @@ There are parts of this guide that are *not very relevant* to you. This is commo
 
 Finally, you should come somewhat prepared to begin working on your Arduino.
 
-http://www.youtube.com/playlist?list=PLDDC57FBF3063BEFF
+[http://www.youtube.com/playlist?list=PLDDC57FBF3063BEFF](http://www.youtube.com/playlist?list=PLDDC57FBF3063BEFF)
 
 This playlist contains 5 movies that are 18 minutes long (in total). I'd suggest watching only the first video in advance, and you can watch the other videos while you are doing the build.
 
