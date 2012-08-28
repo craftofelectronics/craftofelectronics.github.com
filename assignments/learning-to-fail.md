@@ -1,0 +1,40 @@
+---
+layout: default
+title: Learn to Fail
+---
+
+# Learning to Fail
+
+**Due**: Before class on Monday<br/>
+**Submission**: [Moodle](http://goo.gl/WBtl7)<br/>
+
+Over the weekend, we have some accounts to set up, some movie viewing and reading to do, as well as a few questions to answer.
+
+### Accounts Setup
+1. Please visit [dropbox.com](http://db.tt/zgUQOl6A) and set up a Dropbox account, if you have not done so at some point in the past.
+1. Please visit [If This Then That](http://ifttt.com) and create an account. We will talk more about this on [Wednesday](w01.html#Monday).
+
+You need to have a way of safely protecting your work from loss; if you do not have a Dropbox account, please set one up this weekend. If you already use Google Drive or some other (similar) tool, or if you already have a Dropbox account, you can skip this step.
+
+We will use the service If This Then That to help manage communications and announcements from me this term. That, and it is a really incredible tool for automating aspects of your life online. Please create an account, and we will learn more about it in class. Feel free to explore and experiment, of course.
+
+### Viewings and Readings
+
+1. **Jeri Ellsworth** ([biography](http://en.wikipedia.org/wiki/Jeri_Ellsworth)) has followed a fascinating life path. Read her Wikipedia page, and then watch her YouTube video titled [Secret to Learning Electronics - Fail and Fail Often](http://www.youtube.com/watch?v=xhQ7d3BK3KQ).
+1. **Forrest Mims III** wrote (and, by that, I mean *wrote by hand*) the widely regarded book *Getting Started with Electronics*. You should own a copy; it is the required course text. Please read up through page 12 (*Conductors and Insulators*).
+
+### Questions
+
+We will begin the day on [Monday](w01.html#Monday) with a short quiz, followed by some discussion of your answers to the following questions. For each question, please take one paragraph (4-7 sentences, more if necessary) to express your thoughts. Where appropriate, please reference any (web-based) resources that you use by including the title of the webpage and a link to that resource.
+
+1. What component in your plushie monster circuit provided the "brains?" What were its critical specifications, and how are you able to use all of its connections?
+1. Were there any terms or vocabulary that you did not understand in Jeri's video? Pick two or three, research them, and do your best to explain what those terms mean in your own language.
+1. What do you do well and love doing? Or, perhaps it is the case there is something you love doing, and *wish* you did well... but don't yet. This might be a hobby, or some aspect of your studies or work.
+1. What is the most difficult thing you have ever attempted to learn, and why? 
+1. What challenges did you overcome in that learning, and how?
+1. What recommendation that Jeri makes is most important to you, and why?
+1. What recommendation that Jeri makes is the least likely to help you, and why?
+
+If you could please submit your answers as a Word or [Libre Office](http://www.libreoffice.org/)  document to our course Moodle site **before class on Monday**, it would be greatly appreciated. I have creatively named this <a href="http://moodle.berea.edu/mod/assignment/view.php?id=52327">Assignment One</a>, it would be ideal if you could name your file <code><em>USERNAME</em>-AssignmentOne.docx</code> (or <code><em>USERNAME</em>-AssignmentOne.odt</code> if you are using Libre Office). For example, if I was submitting this work, I would name the file **jadudm-AssignmentOne.odt**.
+
+

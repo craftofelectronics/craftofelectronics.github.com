@@ -452,10 +452,10 @@ section {
 
 footer {
   width: 130px;
-  float: right;
+  float: left;
   position: fixed;
   bottom: 10px;
-  padding-left: 85%;
+  padding-left: 10px;
   margin-left: 20px;
   /* Tiny font in the footer. */
   font-size: 9px;
