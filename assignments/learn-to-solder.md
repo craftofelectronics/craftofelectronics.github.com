@@ -13,7 +13,8 @@ Before you begin soldering, you should do some research. What I've suggested her
 
 First, take a look at these six videos:
 
-http://radiojove.gsfc.nasa.gov/telescope/soldering.htm
+[http://radiojove.gsfc.nasa.gov/telescope/soldering.htm](http://radiojove.gsfc.nasa.gov/telescope/soldering.htm
+)
 
 These are very quick. 
 
