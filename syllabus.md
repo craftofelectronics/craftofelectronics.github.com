@@ -16,11 +16,19 @@ title: Craft of Electronics (TAD265) Syllabus
   </tr>
   <tr>
     <td>Office</td>
-    <td>Danforth Tech (somewhere)</td>
+    <td>Danforth Technology Building 102B</td>
+  </tr>
+  <tr>
+	<td>Phone</td>
+	<td>(859) 985-3567</td>
   </tr>
   <tr>
     <td>CPO</td>
     <td>2188</td>
+  </tr>
+  <tr>
+	<td>Office Hours</td>
+	<td>M 9:30-11:30, T 13:30-15:30, by appt.</td>
   </tr>
   <tr>
     <td>Email</td>
