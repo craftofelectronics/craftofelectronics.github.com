@@ -120,14 +120,18 @@ course."
 
 ## Attendance Policy
 
-We will, as a class, craft an attendance policy that reflects our individual commitment to learning as well as supporting our peers and the community in our classroom.
+We will institute, as a community, a process by which we regularly engage in **peer evaluations**. Through these, we will evaluate each other's contributions to projects, with particular emphasis on whether we were supportive of our colleagues and committed to excellence in our work. This may not mean we *achieved* excellence, but we should have been present in class and at meetings, attentive, responsible, and respectful of each other. 
+
+### My Role
+
+In the event that peer evaluations do not provide us with an effective mechanism for building a mutually supportive community in the classroom, I reserve the right to "step in." If your attendance becomes problematic (more than 3 unexcused absences total or two in a single week), you will loose 5% of your final grade for each subsequent absence. Five absences total may result in failure of the course.
 
 ## Technology Policies 
 
 Much of the work in this course will require use of the computer, so these policies are designed to help you better understand how to be effective in a technology-rich environment. 
 
 * **Laptop and Software**: We will regularly make use of laptops during class, and you are expected to have them unless explicitly stated otherwise.
-* **Unapproved Technology**: Technology often disrupts, rather than enhances, our day-to-day lives. Games are never part of a constructive learning experience; email and messaging programs/SMS are only appropriate when they are directly related to our work in class. Cell phones and pagers disrupt your peers, and should be turned off before class. **We will decide, as a class, what is an appropriate penalty for violation of this policy.**
+* **Unapproved Technology**: Technology often disrupts, rather than enhances, our day-to-day lives. **We will be responsible, as individuals, to manage technology like the adults that we are**. We will support each-other in making good decisions about this in class by reminding each-other politely, if necessary, that SMS, Facebook, and similar tools rarely have a place in our classroom.
 * **Communication**: The course website is your primary source for information about CRAFToE; our Moodle site will be used for posting grades and assignment submission. Messages about the course will often be sent by email. These are all mechanisms you would likely use in a professional position in the real world (corporate websites, internal content management systems, and email)---you are, likewise, expected to use them in a responsible and professional manner in this course.
 * **Backups**: All students are expected to back-up their work on a daily basis, which includes laboratories, assignments, and quizzes. The best way to do this is to store a copy of all work in a cloud service such as Dropbox, SkyDrive, Google Drive, or to use a DVD, flash drive, or some other media. Storing multiple copies of something on your laptop is not a backup. I will not be sympathetic to lost work in any way, shape, or form.
 * **Exceptions**: Exceptions to any of these technology policies will be considered on an individual case-by-case basis but will only be granted under extreme circumstances. 
@@ -140,7 +144,8 @@ Team participation is a proven and useful means by which students can learn mate
   1. The names of all contributors.
   1. The work that each individual contributed.
   1. A peer evaluation. (More TBA.)
-* Homework is assumed to be individual in all cases.
+* Homework is assumed to be individual in all cases.<br/>
+**To be clear**: this does not mean that you may not discuss challenges with your peers. It *does* mean that you are expected to submit your own work, and it should represent your own best effort in learning. I am available (both in office hours and by appointment), and and there are evening laboratories where you can seek further support as well.
 * All assignments and labs should be handed in with the author(s) acknowledging all of the help received throughout the assignment. (This includes significant help received from the instructors or in the TAs).
 
 Please be careful to conform to these standards for teamwork, since they are designed to encourage good learning practices. (Furthermore, copying another person's work or otherwise failing to adhere to these standards may even result in a charge of academic dishonesty.) **I will make use of the institutional policies laid down regarding academic dishonesty.** In the real world, plagiarism and claiming others' work as your own could result in you losing your job. Our goal is to support you in your learning, and copying the work of others (or inappropriately reusing work found on the WWW) never constitutes good learning. **CITING YOUR WORK is always, always essential.**
@@ -180,8 +185,7 @@ In years past, I used Chickering and Gamson's [Seven Principles of Good Undergra
 
 ## Catalogue Description
 
-Electrical Fundamentals is a study of the theory and techniques necessary for electrical and electronic systems and their associated equipment. Students will learn how to identify, calculate, measure, create, and repair basic electrical and electronic systems. These skills will be applied to a selection of practical projects that will challenge the students understanding of the material and problem solving/troubleshooting abilities. Topics may include AC/DC circuits, resistance, power, various components, and use of electrical measuring instruments. 
-Practical Reasoning with Quantitative Emphasis (PRQ).
+Electrical Fundamentals is a study of the theory and techniques necessary for electrical and electronic systems and their associated equipment. Students will learn how to identify, calculate, measure, create, and repair basic electrical and electronic systems. These skills will be applied to a selection of practical projects that will challenge the students understanding of the material and problem solving/troubleshooting abilities. Topics may include AC/DC circuits, resistance, power, various components, and use of electrical measuring instruments. *Practical Reasoning with Quantitative Emphasis (PRQ).*
 
 ## Evening Lab / Support
 
