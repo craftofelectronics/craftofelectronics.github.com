@@ -124,7 +124,7 @@ We will institute, as a community, a process by which we regularly engage in **p
 
 ### My Role
 
-In the event that peer evaluations do not provide us with an effective mechanism for building a mutually supportive community in the classroom, I reserve the right to "step in." If your attendance becomes problematic (more than 3 unexcused absences total or two in a single week), you will loose 5% of your final grade for each subsequent absence. Five absences total may result in failure of the course.
+In the event that peer evaluations do not provide us with an effective mechanism for building a mutually supportive community in the classroom, I reserve the right to "step in." If your attendance becomes problematic (more than 3 unexcused absences total or two in a single week), 5% will be subtracted from your total, final grade for the third and each subsequent absence. Five absences total may result in failure of the course.
 
 ## Technology Policies 
 
