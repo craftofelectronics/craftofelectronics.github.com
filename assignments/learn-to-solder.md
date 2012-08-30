@@ -4,8 +4,10 @@ title: Learn to Solder
 ---
 
 # Learn to Solder
-**Due**: Friday before class.
-**Submission**: [Moodle]().
+
+**Due**: Friday at the start of class.
+
+**Submission**: Signed off in class.
 
 Before you begin soldering, you should do some research. What I've suggested here is a set of videos and readings that should get you ready to come to class and begin practicing your craft.
 
