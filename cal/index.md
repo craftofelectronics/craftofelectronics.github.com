@@ -7,7 +7,7 @@ week: 1
 # Course Overview
 
 * [Week 2](w01.html)
-  * This week, we work on [learning to solder](http://localhost:9000/assignments/learn-to-solder.html).
+  * This week, we work on [learning to solder]({{site.url}}/assignments/learn-to-solder.html).
   * [Tuesday](w01.html#Tuesday): Getting started.
   * [Wednesday](w01.html#Wednesday): Finish our monsters in class, more prep.
   * [Thursday](w01.html#Thursday): Finish prep for Friday.
