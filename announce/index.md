@@ -11,7 +11,7 @@ Whenever a new announcement is made, word of it will go out on Twitter using the
 
 <ul>
 {% for post in site.posts | sort | reversed %}
-   <li><strong><a href="http://craftofelectronics.org/{{ post.url }}">{{ post.title }}</a></strong> 
+   <li><strong><a href="{{site.url}}/{{ post.url }}">{{ post.title }}</a></strong> 
    (Posted on {{ post.date | date: "%A, %B %d, %Y" }})
    <br/> 
    {{ post.summary }} </li>
