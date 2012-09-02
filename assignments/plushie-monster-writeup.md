@@ -4,8 +4,10 @@ title: Plushie Monster Writeup
 ---
 
 # Plushie Monster Writeup
+
 **Due**: Friday, September 7th
-**Submission**: [Moodle]()
+
+**Submission**: [Moodle](http://moodle.berea.edu/mod/assignment/view.php?id=53059)
 
 
 Not all of our projects will be reported on in writing---some will involve video, and some may involve live presentations and/or posters. Reporting serves many purposes:

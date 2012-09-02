@@ -5,7 +5,7 @@ week: 1
 ---
 
 # Course Overview
-
+* [Week 3](w02.html)
 * [Week 2](w01.html)
   * This week, we work on [learning to solder]({{site.url}}/assignments/learn-to-solder.html).
   * [Tuesday](w01.html#Tuesday): Getting started.
