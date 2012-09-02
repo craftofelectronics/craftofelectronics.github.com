@@ -22,6 +22,14 @@ This process for structured, pairwise reading looks like the following:
 
 The document we will be reading is about [developing a plan for wiring your own home](http://handyman-do-it-yourself.com/house-wiring-diagrams/). Along with your partner, you will be developing a plan for the wiring of two rooms in your [Contrast House]({{site.url}}/bereacontrasthouse/). This is the first step: developing an understanding of the issues involved, and the appropriate way in which to annotate your home wiring diagram.
 
+Your notes should be typed, and they should be structured something like this:
+
+<div align="center">
+<img src="{{site.url}}/images/structured-reading-outline.jpg" />
+</div>
+
+If yours are structured differently (but clearly, and in a way that is useful to you), that is fine. Unstructured notes are not acceptable.
+
 # Homework
 
 Research one of the questions your partner identified in your structured reading, and write two or three paragraphs about it in a best effort to answer that question. Assume the reader of your document will be another student in <em>Craft of Electronics</em>. Submit your question and answer to Moodle before class on Friday. The document should be named **USERNAME-SQA-1**. (I just abbreviated "Structured Question Answer" as "SQA.")
