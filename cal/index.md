@@ -6,6 +6,11 @@ week: 1
 
 # Course Overview
 * [Week 3](w02.html)
+  * [Monday](w02.html#Monday): Freeduino build time.
+  * [Tuesday](w02.html#Tuesday): Reading (homework)
+  * [Wednesday](w02.html#Wednesday): Quiz, reading (in class)
+  * [Thursday](w02.html#Thursday): Reading (homework)
+  * [Friday](w02.html#Friday): Freeduino completion, testing. [Plushie writeup]({{site.url}}/assignments/plushie-monster-writeup.html) due, [homework from Wednesday]({{site.url}}/assignments/exploring-home-wiring-planning.html) due. 
 * [Week 2](w01.html)
   * This week, we work on [learning to solder]({{site.url}}/assignments/learn-to-solder.html).
   * [Tuesday](w01.html#Tuesday): Getting started.
