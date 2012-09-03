@@ -5,7 +5,11 @@ title: Exploring Home Wiring Planning
 
 # Exploring Home Wiring Planning
 
+<img align="right" src="{{site.url}}/images/berea-contrast-house-revised-floorplan-300.png" />
+
 Before we get into the main activities of the day, we're going to take a few minutes to talk about the kinds of home furnishings we want in our Contrast Houses. Do we want a dishwasher? Clothes washer? Dryer? Lights? Ceiling fans? These questions will effect how we ultimately design the wiring plan for our homes.
+
+To do this, you're going to need [the floorplans to the Berea Contrast House]({{site.url}}/downloads/berea-contrast-house-floorplan.pdf) (PDF). You might want to print one or more copies of the first page so you can mark on it as you brainstorm about the layout of the house.
 
 # Collaborative Reading
 
