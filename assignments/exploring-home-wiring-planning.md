@@ -34,8 +34,14 @@ Your notes should be typed, and they should be structured something like this:
 
 If yours are structured differently (but clearly, and in a way that is useful to you), that is fine. Unstructured notes are not acceptable.
 
-# Homework
+# Homework (Modified Based on Long Q & A Session)
 
+Finish the reading we started in class for Friday. Before class, submit a Word document containing questions you have from the Reading to Moodle. The document should be named **USERNAME-SQA-1**. (I just abbreviated "Structured Question Answer" as "SQA.")
+
+Moodle Assignment: [Structured Questions](http://moodle.berea.edu/mod/assignment/view.php?id=53381)
+
+<!--
 Research one of the questions your partner identified in your structured reading, and write two or three paragraphs about it in a best effort to answer that question. Assume the reader of your document will be another student in <em>Craft of Electronics</em>. Submit your question and answer to Moodle before class on Friday. The document should be named **USERNAME-SQA-1**. (I just abbreviated "Structured Question Answer" as "SQA.")
 
 Make sure your document clearly identifies the question and answer; I will combine these into a single document, and share them (anonymized) back to the entire class.
+-->
