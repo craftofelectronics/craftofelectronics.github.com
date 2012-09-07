@@ -11,12 +11,15 @@ week: 1
   * [Wednesday](w02.html#wednesday): Quiz, reading (in class)
   * [Thursday](w02.html#thursday): Reading (homework)
   * [Friday](w02.html#friday): Freeduino completion, testing. [Plushie writeup]({{site.url}}/assignments/plushie-monster-writeup.html) due, [homework from Wednesday]({{site.url}}/assignments/exploring-home-wiring-planning.html) due. 
+  * [Weedend](w02.html#weekend): Reading and research for the weekend.
+
 * [Week 2](w01.html)
   * This week, we work on [learning to solder]({{site.url}}/assignments/learn-to-solder.html).
   * [Tuesday](w01.html#Tuesday): Getting started.
   * [Wednesday](w01.html#Wednesday): Finish our monsters in class, more prep.
   * [Thursday](w01.html#Thursday): Finish prep for Friday.
   * [Friday](w01.html#Friday): Deliver a working guide for soldering, get started.
+
 * [Week 1](w00.html)
   * [Wednesday](w00.html#Wednesday): Fix the Lab
   * [Friday](w00.html#Friday): Build a Monster
