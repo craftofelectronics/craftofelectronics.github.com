@@ -11,7 +11,7 @@ week: 1
   * [Wednesday](w02.html#wednesday): Quiz, reading (in class)
   * [Thursday](w02.html#thursday): Reading (homework)
   * [Friday](w02.html#friday): Freeduino completion, testing. [Plushie writeup]({{site.url}}/assignments/plushie-monster-writeup.html) due, [homework from Wednesday]({{site.url}}/assignments/exploring-home-wiring-planning.html) due. 
-  * [Weedend](w02.html#weekend): Reading and research for the weekend.
+  * [Weekend](w02.html#weekend): Reading and research for the weekend.
 
 * [Week 2](w01.html)
   * This week, we work on [learning to solder]({{site.url}}/assignments/learn-to-solder.html).
