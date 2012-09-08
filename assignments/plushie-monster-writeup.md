@@ -56,4 +56,17 @@ What was the result? This section is where you **step back and reflect as a make
 
 Finally, you might focus on just one of these, and consider how you will build upon or improve your experience in the future.
 
+### Submission
+
+*Added Friday, September 7th, after assignments were turned in. This section
+is apparently necessary, so that everyone names their files correctly.*
+
+As with all assignments, you should submit your work to [Moodle](http://moodle.berea.edu/mod/assignment/view.php?id=53059). And, as with all assignments, you should use a sensible filename:
+
+* It should start with your username, which...
+* should be followed by a hyphen, which...
+* should be followed by the name of the assignment.
+
+For example, I would name my report **jadudm-plushiemonster.docx**. 
+
 
