@@ -13,6 +13,8 @@ If you have never explored electricity and electronics before, and you enjoy mak
   We will learn to think with our hands as we build electrical systems; if you can hold a pencil, you can build electronics.
 1. **We want to design solutions to our own problems**. <br/>
   We study electricity and electronics because it enables us to better understand ourselves and our environment---and control that environment as well.
+1. **We want to communicate our efforts with excellence.** <br/>
+  We design, we build, and we **share**. That communication, be it via text, live presentation, or video, must be clearly articulated and professional in nature.
 
 
 Throughout the course, we will highlight when we are learning about **safety**,
