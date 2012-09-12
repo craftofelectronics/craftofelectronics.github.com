@@ -12,8 +12,8 @@ Contrast House]({{ site.base }}/bereacontrasthouse/), we don't have time to prog
 ## Getting Flow
 
 Flow is available for [Mac](http://goo.gl/HNalJ),
-[Windows](https://github.com/craftofelectronics/flow), and
-[Linux](https://github.com/craftofelectronics/flow). If you have any problems,
+[Windows](http://goo.gl/r7hGH), and
+[Linux](http://goo.gl/W13c2). If you have any problems,
 please join the [users mailing
 list](http://concurrency.cc/docs/mailinglists.html) at concurrency.cc. 
 
