@@ -9,6 +9,8 @@ These assignments were issued as in-class exercises, as laboratories, or as home
 
 The due dates for these assignments can all be found in the course Moodle site, or on the individual assignment webpages. The Moodle site should (if I've done things correctly) always the the "most correct" place to look for deadlines and assignment submission.
 
+* [Oscilloscope Basics](oscilloscope-basics.html) <br/>
+  A lab in which we learn the basics of the oscilloscope and work on our writing.
 * [Distributed Rough In Code Research](distributed-electric-code-research.html)<br/>
 Reading and researching different aspects of home wiring.
 * [Exploring Home Wiring Planning](exploring-home-wiring-planning.html)<br/>
