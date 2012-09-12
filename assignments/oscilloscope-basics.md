@@ -5,6 +5,7 @@ title: Oscilloscope Basics
 
 # Oscilloscope Basics
 
+In this lab...
 
 ### Submission
 
