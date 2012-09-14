@@ -146,13 +146,15 @@ For Friday, you are responsible (individually) for writing up one small sections
 
 (For clarity, the "three approaches" are 1) reading the divisions on-screen, 2) using the cursor, and 3) capturing the data to Excel.)
 
-**Your writeup should be in Moodle by noon on Friday.**
+**Your writeup should be in Moodle by noon on Monday.**
 
+<!-- 
 **Note**: It is possible we will require time on Friday to complete this lab. If that is the case, then the workshopping will take place on Monday. We will know whether this is the case at the end of the class on Wednesday. I will update this page accordingly at that point.
+-->
 
 ## Workshopping
 
-I will have printed copies for use in class on Friday. In class, we will go through a series of small-group reading and writing excercises in which we critique and improve our writing.
+I will have printed copies for use in class on Monday. In class, we will go through a series of small-group reading and writing excercises in which we critique and improve our writing.
 
 ### Submission
 
