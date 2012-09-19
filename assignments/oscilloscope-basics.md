@@ -142,7 +142,7 @@ At this point, you have used your oscilloscope to:
 1. Measure a signal by exporting data, and calculating in Excel.
 1. Capture an image of a waveform and store it for use in subsequent reporting.
 
-For Friday, you are responsible (individually) for writing up one small sections of what will become a full report. Specifically, I would like you to discuss (compare and contrast) the relative merits of capturing data from the oscilloscope for each of the three methods we employed above. Your discussion should attempt to communicate (numerically, where possible) the limits of the accuracy of each method. How much error is possible in the first, second, and third approaches?
+For Monday, you are responsible (individually) for writing up one small sections of what will become a full report. Specifically, I would like you to discuss (compare and contrast) the relative merits of capturing data from the oscilloscope for each of the three methods we employed above. Your discussion should attempt to communicate (numerically, where possible) the limits of the accuracy of each method. How much error is possible in the first, second, and third approaches?
 
 (For clarity, the "three approaches" are 1) reading the divisions on-screen, 2) using the cursor, and 3) capturing the data to Excel.)
 
