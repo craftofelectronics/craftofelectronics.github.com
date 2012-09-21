@@ -6,6 +6,14 @@ week: 1
 The current/next week is always at the top.
 
 # Course Overview
+* [Week 5](w04.html) (Sept 17--21)
+	* Monday: More technology woes.
+	* Tuesday: N/A
+	* Wednesday: [Scope lab]({{site.url}}/assignments/oscilloscope-basics.html). Finally.
+	* Thursday: N/A
+	* [Friday](w04.html#friday): Workshopping
+	* [Weekend](w04.html#weekend): Read, Write
+
 * [Week 4](w03.html) (Sept 10--15)
 	* [Monday](w03.html#monday): House plan consolidation, Freeduino testing.
 	* [Tuesday](w03.html#tuesday): Reading (homework)
