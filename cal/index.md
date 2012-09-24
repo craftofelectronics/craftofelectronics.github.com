@@ -6,6 +6,15 @@ week: 1
 The current/next week is always at the top.
 
 # Course Overview
+
+* [Week 6](w05.html) (Sept 24--28)
+	* [Monday](w05.html#friday): Potentiometers and Multimeters
+	* [Tuesday](w05.html#friday): V=IR Practice
+	* [Wednesday](w05.html#friday): LDR (Light Dependent Resistors)
+	* [Thursday](w05.html#friday): Voltage Divider Practice
+	* [Friday](w05.html#friday): Wiring The House
+	* [Weekend](w05.html#weekend): TBA
+
 * [Week 5](w04.html) (Sept 17--21)
 	* Monday: More technology woes.
 	* Tuesday: N/A
