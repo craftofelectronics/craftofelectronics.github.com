@@ -9,6 +9,8 @@ These assignments were issued as in-class exercises, as laboratories, or as home
 
 The due dates for these assignments can all be found in the course Moodle site, or on the individual assignment webpages. The Moodle site should (if I've done things correctly) always the the "most correct" place to look for deadlines and assignment submission.
 
+* [Trimpots and Multimeters](trimpots-and-multimeters.html) <br/>
+  We're going to get started with our multimeters, and learn something about sensing.
 * [Oscilloscope Basics](oscilloscope-basics.html) <br/>
   A lab in which we learn the basics of the oscilloscope and work on our writing.
 * [Distributed Rough In Code Research](distributed-electric-code-research.html)<br/>
