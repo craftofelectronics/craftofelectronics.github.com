@@ -7,11 +7,11 @@ title: Craft of Electronics Resources
 
 As I create pencasts to answer questions or introduce concepts, I'll link them in here (as well as in the calendar and/or assignment they are related to). The most recent pencast is always first.
 
-* [{{site.url}}/downloads/20120929-voltage-dividers-03-pencast.pdf](Voltage Dividers #3)
-* [{{site.url}}/downloads/20120929-voltage-dividers-02-pencast.pdf](Voltage Dividers #2)
-* [{{site.url}}/downloads/20120929-voltage-dividers-01-pencast.pdf](Voltage Dividers #1) <br/>
+* [Voltage Dividers #3]({{site.url}}/downloads/20120929-voltage-dividers-03-pencast.pdf)
+* [Voltage Dividers #2]({{site.url}}/downloads/20120929-voltage-dividers-02-pencast.pdf)
+* [Voltage Dividers #1]({{site.url}}/downloads/20120929-voltage-dividers-01-pencast.pdf) <br/>
   Voltage dividers occur whenever we have more than once resistor in a sequential circuit.
-* [{{site.url}}/downloads/20120924-ohms-law-pencast.pdf](Ohm's Law) <br/>
+* [Ohm's Law]({{site.url}}/downloads/20120924-ohms-law-pencast.pdf) <br/>
   V = IR. An intro.
 
 # On The WWW
