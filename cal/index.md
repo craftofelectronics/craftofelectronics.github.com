@@ -13,7 +13,7 @@ The current/next week is always at the top.
 	* [Wednesday](w05.html#friday): LDR (Light Dependent Resistors)
 	* [Thursday](w05.html#friday): Voltage Divider Practice
 	* [Friday](w05.html#friday): Wiring The House
-	* [Weekend](w05.html#weekend): TBA
+	* [Weekend](w05.html#weekend): Voltage Dividers
 
 * [Week 5](w04.html) (Sept 17--21)
 	* Monday: More technology woes.

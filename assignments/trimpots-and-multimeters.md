@@ -89,9 +89,37 @@ Create a graph with:
 
 Draw a line (with a straightedge) that seems to best fit those data points.
 
+I have [created a pencast that briefly talks about the process of collecting your data and plotting it]({{site.url}}/downloads/20120925-multimeter-plotting-data.pdf) (Pencast PDF) on an x-y plot (by hand). Remember that pencasts must be downloaded and viewed in Acrobat Reader to be viewable/readable.
+
 # Check In
 
-At this point, you should have some data regarding the resistance of the trimpot with respect to the sensor readings we found along the way. 
+At this point, you should have some data regarding the resistance of the trimpot with respect to the sensor readings we found along the way. Check in with Matt regarding your progress so far.
+
+# Swapping Things Around
+
+After you have used your multimeter to measure the resistance across the trimpot, take it out of the circuit, and replace it with the photocell. The photocell is a light-dependent resistor: as more light strikes it, the resistance drops, and as it gets darker, the resistance increases.
+
+Your circuit should now look like the first circuit you built, but without the LED.
+
+
+<div align="center">
+  <img src="multimeter-basics/ldr-breadboard.png" />
+</div>
+
+With this circuit, you want to do the following:
+
+1. Write a program that takes a reading from the circuit (in this case, from Analog 0, or A0)
+1. Display that number, as we did in our previous program.
+1. Find 8-10 places around the Danforth Tech building; record the location you are at, and the average reading that your Arduino reports.
+1. For each reading you take, look at your graph. What resistance is the LDR providing for that level of light.
+
+Now, armed with that information, complete the circuit so that it looks like the first circuit we built. Modify your program so that the LED turns on in the darkest parts of the building, but turns off in the lighter parts of the building.
+
+You have now built and programmed an automatic light switch that turns off lights when they are not needed!
+
+# Writeup
+
+
 
 ### Submission
 

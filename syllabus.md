@@ -113,19 +113,6 @@ but do not require you attend it. I have also been told that A.A. Burleigh
 
 Completion or waiver of MAT 012 or permission of instructor.
 
-## Grade Distribution
-
-<table>
-<tr> <td> Work </td> <td> 60% </td> </tr>
-<tr> <td> Midterms </td> <td> 12% each </td> </tr>
-<tr> <td> Final </td> <td> 16% </td> </tr>
-</table>
-
-"Work" means work done in-class, homeworks, laboratories, presentations, etc.
-as assessed by the instructor, TAs, or (if appropriate) your peers. Put simply,
-"more than half of your grade comes from doing excellent work throughout the
-course."
-
 ## Attendance Policy
 
 We will institute, as a community, a process by which we regularly engage in **peer evaluations**. Through these, we will evaluate each other's contributions to projects, with particular emphasis on whether we were supportive of our colleagues and committed to excellence in our work. This may not mean we *achieved* excellence, but we should have been present in class and at meetings, attentive, responsible, and respectful of each other. 
@@ -157,7 +144,21 @@ Team participation is a proven and useful means by which students can learn mate
 * All assignments and labs should be handed in with the author(s) acknowledging all of the help received throughout the assignment. (This includes significant help received from the instructors or in the TAs).
 
 Please be careful to conform to these standards for teamwork, since they are designed to encourage good learning practices. (Furthermore, copying another person's work or otherwise failing to adhere to these standards may even result in a charge of academic dishonesty.) **I will make use of the institutional policies laid down regarding academic dishonesty.** In the real world, plagiarism and claiming others' work as your own could result in you losing your job. Our goal is to support you in your learning, and copying the work of others (or inappropriately reusing work found on the WWW) never constitutes good learning. **CITING YOUR WORK is always, always essential.**
-
+
+
+## Grade Distribution
+
+<table>
+<tr> <td> Work </td> <td> 60% </td> </tr>
+<tr> <td> Midterms </td> <td> 12% each </td> </tr>
+<tr> <td> Final </td> <td> 16% </td> </tr>
+</table>
+
+"Work" means work done in-class, homeworks, laboratories, presentations, etc.
+as assessed by the instructor, TAs, or (if appropriate) your peers. Put simply,
+"more than half of your grade comes from doing excellent work throughout the
+course."
+
 ## Grading Scale
 
 The [Berea College grading scale](http://www.berea.edu/cataloghandbook/academics/aps/grades/gradingscale.asp) makes clear that:
@@ -179,6 +180,8 @@ Most work that any of us do is **competent**. Care and effort is needed even to 
 * An **F** is a grade of 60% or lower.
 
 A **plus** may be earned through exceptional attendance, teamwork, professionalism and collegiality, and participation. A **plus** is completely at the discretion of the instructor.
+
+**Any questions regarding grades should never be directed at TAs, but instead always directed to the instructor of the course.**
 
 ## Class Atmosphere
 
