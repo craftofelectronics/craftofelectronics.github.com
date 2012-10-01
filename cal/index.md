@@ -7,6 +7,14 @@ The current/next week is always at the top.
 
 # Course Overview
 
+* [Week 7](w06.html) (Oct 1--5)
+	* [Monday](w06.html#friday): Voltage Dividers, Finalized
+	* [Tuesday](w06.html#friday): Reading, Tabular Practice
+	* [Wednesday](w06.html#friday): Parallel Circuits
+	* [Thursday](w06.html#friday): Practice
+	* [Friday](w06.html#friday): Practice Exam
+	* [Weekend](w06.html#weekend): TBA
+
 * [Week 6](w05.html) (Sept 24--28)
 	* [Monday](w05.html#friday): Potentiometers and Multimeters
 	* [Tuesday](w05.html#friday): V=IR Practice
