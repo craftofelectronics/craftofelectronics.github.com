@@ -24,5 +24,3 @@ We have been building our understanding of theory in electronics; you are respon
 ## Labs
 
 We have been slowed in our lab work by technology. That said, revisit your work on the plushie monster and the oscilloscope. I am well aware of what we have and have not been able to do.
-
-## 
