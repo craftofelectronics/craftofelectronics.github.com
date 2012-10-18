@@ -7,19 +7,35 @@ The current/next week is always at the top.
 
 # Course Overview
 
+* [Week 9](w08.html) (Oct 15--19)
+	* [Monday](w08.html#monday): Exam Q&A, Using Fritzing
+	* [Tuesday](w08.html#tuesday): Diagram and Write
+	* Wednesday: Mountain Day
+	* [Thursday](w08.html#thursay): Reading - Monitoring Temperature
+	* [Friday](w08.html#friday): Logging Temperature
+	* [Weekend](w08.html#weekend): Pracitce Analysis
+
+* [Week 8](w07.html) (Oct 8--12)
+	* Monday: Reading Day
+	* Tuesday: Reading Day
+	* Wednesday: Q & A, Contrast Houses
+	* Thursday: Study
+	* Friday: Midterm
+	* Weekend: N/A
+
 * [Week 7](w06.html) (Oct 1--5)
-	* [Monday](w06.html#friday): Voltage Dividers, Finalized
-	* [Tuesday](w06.html#friday): Reading, Tabular Practice
-	* [Wednesday](w06.html#friday): Parallel Circuits
-	* [Thursday](w06.html#friday): Practice
+	* [Monday](w06.html#monday): Voltage Dividers, Finalized
+	* [Tuesday](w06.html#tuesday): Reading, Tabular Practice
+	* [Wednesday](w06.html#wednesday): Parallel Circuits
+	* [Thursday](w06.html#thursay): Practice
 	* [Friday](w06.html#friday): Practice Exam
 	* [Weekend](w06.html#weekend): TBA
 
 * [Week 6](w05.html) (Sept 24--28)
-	* [Monday](w05.html#friday): Potentiometers and Multimeters
-	* [Tuesday](w05.html#friday): V=IR Practice
-	* [Wednesday](w05.html#friday): LDR (Light Dependent Resistors)
-	* [Thursday](w05.html#friday): Voltage Divider Practice
+	* [Monday](w05.html#monday): Potentiometers and Multimeters
+	* [Tuesday](w05.html#tuesday): V=IR Practice
+	* [Wednesday](w05.html#wednesday): LDR (Light Dependent Resistors)
+	* [Thursday](w05.html#thursday): Voltage Divider Practice
 	* [Friday](w05.html#friday): Wiring The House
 	* [Weekend](w05.html#weekend): Voltage Dividers
 
