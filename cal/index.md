@@ -13,7 +13,7 @@ The current/next week is always at the top.
 	* Wednesday: Mountain Day
 	* [Thursday](w08.html#thursay): Reading - Monitoring Temperature
 	* [Friday](w08.html#friday): Logging Temperature
-	* [Weekend](w08.html#weekend): Pracitce Analysis
+	* [Weekend](w08.html#weekend): Thermostat Reading
 
 * [Week 8](w07.html) (Oct 8--12)
 	* Monday: Reading Day
