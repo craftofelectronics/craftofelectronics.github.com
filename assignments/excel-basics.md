@@ -17,6 +17,8 @@ We'll do a series of things today:
 1. Add a trend line.
 1. Show the trend line equation.
 
+We will work with [this portion of WWII weather data]({{site.url}}/downloads/world-war-two-data.xls) (Excel Spreadsheet), [retrieved from the NOAA](http://www.ncdc.noaa.gov/oa/climate/online/ww-ii-data.html#FILES) on Oct 22, 2012.
+
 # Excel Tips
 
 These notes are to help remind you of what we did in class.
