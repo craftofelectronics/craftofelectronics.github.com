@@ -9,6 +9,9 @@ These assignments were issued as in-class exercises, as laboratories, or as home
 
 The due dates for these assignments can all be found in the course Moodle site, or on the individual assignment webpages. The Moodle site should (if I've done things correctly) always the the "most correct" place to look for deadlines and assignment submission.
 
+* [Excel Basics](excel-basics.html) <br/>
+We explored this in class.
+
 * [Reading about Smart Thermostats](jigsaw-reading-thermostats.html) <br/>
   You're going to be reading in small groups and reporting back to the class what you learn.
 

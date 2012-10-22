@@ -7,6 +7,15 @@ The current/next week is always at the top.
 
 # Course Overview
 
+* [Week 10](w09.html) (Oct 22--26)
+	* [Monday](w09.html#monday): Jigsaw, Excel
+	* [Tuesday](w09.html#tuesday): Datasheet reading
+	* [Wednesday](w09.html#wednesday): Circuit build, Deployment
+	* [Thursday](w09.html#thursay): 
+	* [Friday](w09.html#friday): House Build
+	* [Weekend](w09.html#weekend): 
+
+
 * [Week 9](w08.html) (Oct 15--19)
 	* [Monday](w08.html#monday): Exam Q&A, Using Fritzing
 	* [Tuesday](w08.html#tuesday): Diagram and Write
