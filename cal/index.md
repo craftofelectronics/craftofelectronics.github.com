@@ -7,11 +7,19 @@ The current/next week is always at the top.
 
 # Course Overview
 
+* [Week 11](w10.html) (Oct 29--Nov 2)
+	* [Monday](w10.html#monday): Data Gathering, Analysis
+	* [Tuesday](w10.html#tuesday): Passive Infrared Reading
+	* [Wednesday](w10.html#wednesday): Circuit build, Deployment
+	* [Thursday](w10.html#thursday): Light Sensing Reading
+	* [Friday](w10.html#friday): Circuit extend, Deployment
+	* [Weekend](w10.html#weekend): Jigsaw Reading - Capacitance, (Small) Power Supplies
+
 * [Week 10](w09.html) (Oct 22--26)
 	* [Monday](w09.html#monday): Jigsaw, Excel
 	* [Tuesday](w09.html#tuesday): Datasheet reading
 	* [Wednesday](w09.html#wednesday): Circuit build, Deployment
-	* [Thursday](w09.html#thursay): 
+	* [Thursday](w09.html#thursday): 
 	* [Friday](w09.html#friday): House Build
 	* [Weekend](w09.html#weekend): 
 
@@ -20,7 +28,7 @@ The current/next week is always at the top.
 	* [Monday](w08.html#monday): Exam Q&A, Using Fritzing
 	* [Tuesday](w08.html#tuesday): Diagram and Write
 	* Wednesday: Mountain Day
-	* [Thursday](w08.html#thursay): Reading - Monitoring Temperature
+	* [Thursday](w08.html#thursday): Reading - Monitoring Temperature
 	* [Friday](w08.html#friday): Logging Temperature
 	* [Weekend](w08.html#weekend): Thermostat Reading
 
@@ -36,7 +44,7 @@ The current/next week is always at the top.
 	* [Monday](w06.html#monday): Voltage Dividers, Finalized
 	* [Tuesday](w06.html#tuesday): Reading, Tabular Practice
 	* [Wednesday](w06.html#wednesday): Parallel Circuits
-	* [Thursday](w06.html#thursay): Practice
+	* [Thursday](w06.html#thursday): Practice
 	* [Friday](w06.html#friday): Practice Exam
 	* [Weekend](w06.html#weekend): TBA
 
