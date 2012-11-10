@@ -3,22 +3,31 @@ layout: default
 title: Home
 ---
 
-# Welcome
+# It's Curtain Time
 
-If you have never explored electricity and electronics before, and you enjoy making things, then this course was designed for you. We designed this course with <strike>three</strike> four long-term goals in mind:
+I think y'all can do some amazing things in the weeks remaining.
 
-1. **We want to be safe in everything we do**. <br/>
-  People who do not respect electricity are dangerous to themselves and others. Safety is the most important thing you can learn in *Craft of Electronics*.
-1. **We want to build things**. <br/>
-  We will learn to think with our hands as we build electrical systems; if you can hold a pencil, you can build electronics.
-1. **We want to design solutions to our own problems**. <br/>
-  We study electricity and electronics because it enables us to better understand ourselves and our environment---and control that environment as well.
-1. **We want to communicate our efforts with excellence.** <br/>
-  We design, we build, and we **share**. That communication, be it via text, live presentation, or video, must be clearly articulated and professional in nature.
+[Jump to the current week](#design_and_present).
 
 
-Throughout the course, we will highlight when we are learning about **safety**,
-focusing on **building**, or **designing** circuits and systems.
+### Design and Present
+
+The week of November 10th through November 16th
+ 
+* **Weekend** <br/> Revisit your brainstorming from Friday, and come prepared to share your ideas with others.
+* **Monday** <br/> We will break into groups that divide across project components, so that we can share and design across whole-project components.  <br/> *Homework*: Shopping list submission. Reading re: brainstorming and creativity.
+* **Wednesday**: <br/> Quiz. Presentation overview. Presentation layout and practice.  <br/>  *Homework*: Transistors.
+* **Friday**: <br/> Presentations, quiz, transistor lab I.
+
+### Prototype and Implement 
+
+The week of November 17th through November 23rd
+
+* **Weekend** <br/> Write up project design as individuals.  <br/> *Homework*: Relays.
+* **Monday** <br/> Quiz. Transistor lab II. <br/> *Due*: Project writeup.
+* **Wednesday**: <br/> Prototype and implement.
+* **Friday**: <br/> Prototype and implement.
+
 
 <!-- Jekyll Notes
 
