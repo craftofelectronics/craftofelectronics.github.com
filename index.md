@@ -28,6 +28,8 @@ The week of November 17th through November 23rd
 * **Wednesday**: <br/> Break.
 * **Friday**: <br/> Break.
 
+Over break, please produce a Fritzing diagram of your H-Bridge circuit, and include how it was connected up to your Arduino. There will be no class Monday after break, so you have until Wednesday of the week we're back to complete this. Submit both the circuit diagram from Fritzing as well as the code that was developed to Moodle.
+
 
 <!-- Jekyll Notes
 
