@@ -7,10 +7,10 @@ title: Home
 
 I think y'all can do some amazing things in the weeks remaining.
 
-[Jump to the current week](#design_and_present).
+[Jump to the current week](#prototype_and_implement).
 
 
-### Design and Present
+### Design and Explore
 
 The week of November 10th through November 16th
  
@@ -23,10 +23,10 @@ The week of November 10th through November 16th
 
 The week of November 17th through November 23rd
 
-* **Weekend** <br/> Write up project design as individuals.  <br/> *Homework*: Relays.
-* **Monday** <br/> Quiz. Transistor lab II. <br/> *Due*: Project writeup.
-* **Wednesday**: <br/> Prototype and implement.
-* **Friday**: <br/> Prototype and implement.
+* **Weekend** <br/> Read about relays.
+* **Monday** <br/> Quiz. [Transistor lab II](assignments/the-h-bridge.html).
+* **Wednesday**: <br/> Break.
+* **Friday**: <br/> Break.
 
 
 <!-- Jekyll Notes
