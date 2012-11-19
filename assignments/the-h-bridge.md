@@ -17,7 +17,7 @@ Today, we're going to build our own motor control circuit.
 
 ## The Circuit
 
-There are two pages you'll want to study with your partner: [the overview](http://www.robotroom.com/BipolarHBridge.html) and [the build itself](). 
+There are two pages you'll want to study with your partner: [the overview](http://www.robotroom.com/BipolarHBridge.html) and [the build itself](http://www.robotroom.com/BipolarHBridge2.html). 
 
 You'll want to work in your larger teams again: two groups of TAD students should be working on building H-Bridges, and one group of CS students should be working out how they think they will control this circuit with the Arduino. 
 
