@@ -36,6 +36,8 @@ Check, double-check, and then triple-check your work. The way to do this:
 
 This will take some time. This is the process I go through when designing and building circuits... I go from the datasheet, which describes the individual part, to the schematic, which shows it in the circuit, and then the physical circuit, to make sure that I correctly connected everything... and then back again. That cycle needs to be repeated, checked, and verified, if you want to have confidence in the work you do.
 
+[Please upload this when you are done to Moodle](http://moodle.berea.edu/mod/assignment/view.php?id=61672).
+
 ### Notes for the CS students
 [The table at the bottom of the overview page](http://www.robotroom.com/BipolarHBridge.html) is a really good place to start. Also, you may find [this Instructable to be useful](http://www.instructables.com/id/H-Bridge-on-a-Breadboard/). Do you see where they use switches? Perhaps you could use another set of 2N3904 transistors instead?
 

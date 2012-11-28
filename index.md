@@ -36,7 +36,7 @@ Your [final reports are due by or before the final exam slot](/assignments/final
 The week of November 17th through November 23rd
 
 * **Weekend** <br/> Read about relays.
-* **Monday** <br/> Quiz. [Transistor lab II](assignments/the-h-bridge.html).
+* **Monday** <br/> Quiz. [Transistor lab II](assignments/the-h-bridge.html). When done, [upload to Moodle](http://moodle.berea.edu/mod/assignment/view.php?id=61672).
 * **Wednesday** <br/> Break.
 * **Friday** <br/> Break.
 
