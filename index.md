@@ -3,6 +3,10 @@ layout: default
 title: Home
 ---
 
+# Class is over!
+
+Have a great holiday, and see you around next term!
+
 # It's Curtain Time
 
 I think y'all can do some amazing things in the weeks remaining.
