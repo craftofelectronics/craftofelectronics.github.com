@@ -1,6 +1,6 @@
 ---
 title: Assignments
-layout: minimal
+layout: default
 ---
 
 # Assignments
@@ -9,6 +9,5 @@ Assignments are readings or practical work that is completed outside of class, t
 
 **Assignment Index**
 
-* [Jan 8 / Downloads, Installs, and Stuff](#downloads_installs_and_stuff)
+* [ Placeholder ](#downloads_installs_and_stuff)
 
-{% include assignments/downloads-installs-stuff.md %}

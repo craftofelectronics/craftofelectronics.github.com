@@ -1,6 +1,6 @@
 ---
 title: Laboratories
-layout: minimal
+layout: default
 ---
 
 # Laboratories
