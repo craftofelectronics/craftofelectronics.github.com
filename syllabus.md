@@ -20,7 +20,7 @@ title: Craft of Electronics (TAD265) Syllabus
   </tr>
   <tr>
 	<td>Phone</td>
-	<td>(859) 985-3567</td>
+	<td> {{ site.phone }}</td>
   </tr>
   <tr>
     <td>CPO</td>
@@ -28,7 +28,7 @@ title: Craft of Electronics (TAD265) Syllabus
   </tr>
   <tr>
 	<td>Office Hours</td>
-	<td>M 9:30-11:30, T 13:30-15:30, by appt.</td>
+	<td> {{ site.office_hours }}</td>
   </tr>
   <tr>
     <td>Email</td>
@@ -40,7 +40,7 @@ title: Craft of Electronics (TAD265) Syllabus
 
 Email is a good way to reach me, so please feel free to email me if you have questions or would like to schedule a time to meet outside of office hours. Please also feel welcome to drop by in case I happen to be in my office.
 
-This is the first time *Craft of Electronics* has been offered, and [with contributions from many](contributors.html), this course has been designed to be distinctly Berean. It is possible that the syllabus will need to change as we progress through the semester; if that is the case, we will discuss those changes as a class, thus making the course better for us and for students who take the course in the future.
+This is the {{ site.offering_number }} time *Craft of Electronics* has been offered, originally developed [with contributions from many](contributors.html). This course has been designed to be distinctly Berean in its focus and execution.
 
 ## What This Course is About
 
@@ -76,38 +76,21 @@ Italicised objectives may be expressed differently in the first offering of TAD 
 ## Materials Online
 
 * We will use Moodle, provided by Berea College, for handing in assignments.
-* We will use [Dropbox](http://dropbox.com/) for making sure we never lose our work.
-* We will use [If This Then That (IFTTT)](http://ifttt.com/) to keep track of course announcements.
+* We will use [Dropbox](http://dropbox.com/) for making sure we never lose our work. You should [create an account](http://db.tt/zgUQOl6A) if you do not already have one. It is free.
 
 ## Required Text and Materials
 
 The following are *required*:
 
-1. Forrest M. Mims III, [Getting Started in Electronics](http://www.amazon.com/Getting-Started-Electronics-Forrest-Mims/dp/0945053282/ref=pd_sim_b_6)
-1. **A Freeduino Kit**. Pick up a voucher at the bookstore. Surrender it to Matt for a kit.
+1. Charles Platt, [Make: Electronics (Learning by Discovery)](http://www.amazon.com/Make-Electronics-Discovery-Charles-Platt/dp/0596153740)
+1. **A Freeduino Kit**. You will be charged directly by the TAD programme for this technology.
+1. **A LilyTiny**. You will also be charged directly for this technology.
 1. A notebook.
 1. Safety Goggles.
 
-The following texts are *completely optional*. This means they will add to your experience in the course (if you read them), but I will not be assigning anything from them. Put another way: **you do not need to buy these books**. You might want to, though.
-
-1. Black and Decker, [The Complete Guide to Wiring, 5th Edition.](http://www.amazon.com/Black-Decker-Complete-Guide-Wiring/dp/1589236017/ref=sr_1_1?s=books&ie=UTF8&qid=1344707680&sr=1-1&keywords=wiring)
-1. Charles Platt, [Make: Electronics](http://www.amazon.com/Make-Electronics-Discovery-Charles-Platt/dp/0596153740/ref=pd_bxgy_b_img_y)
-
 ## Required Convocations
 
-As students, you are expected to attend 7 events from the [Berea Convocation Series](http://www.berea.edu/convocations/) per term. For this course, I am requiring that you attend **three** of these convocations.
-
-* Dr. Lyle Roelofs (Aug 30, 3PM): [Why Berea?](http://www.berea.edu/convocations/events/2012-2013/dr-lyle-roelofs.asp)<br/>
-Why this convo? Because Dr. Roelofs is our new President, and we should get to know him. A scientist of deep faith, he and his wife join us to listen and lead.
-* Hasan Davis '92 (Oct 4, 3PM): [A.A. Burleigh: The Long Climb to Freedom](http://www.berea.edu/convocations/events/2012-2013/founders-day-convocation.asp)<br/>
-[Hasan Davis](http://www.hasandavis.com/Hasan.html) is a Berea grad who has pursued his passions, and they have led him many fascinating and amazing places. Likewise, A. A. Burleigh (whom Davis will portray) is another Berea graduate---the first African-American to graduate from Berea College. This convo is about the power of passions, and how (in their pursuit), you are capable of anything.
-* Dr. Lisa Dodson (Nov 29, 3PM): [The Moral Underground: How Ordinary People Subvert an Unfair Economy](http://www.berea.edu/convocations/events/2012-2013/dr-lisa-dodson.asp)<br/>
-You do not need to be Apple Computer to transform the world through digital electronics. The *craft* of electronics provides an avenue by which we might transform our world, and  in doing so, support ourselves and others. Dr. Dodson provides a context for these ideas.
-
-I recommend [The California Guitar
-Trio](http://www.berea.edu/convocations/events/2012-2013/california-guitar-trio.asp),
-but do not require you attend it. I have also been told that A.A. Burleigh
-(Berea grad) will be excellent.
+There are no required convos at this time.
   
 ## Course Prerequisites
 
@@ -115,20 +98,18 @@ Completion or waiver of MAT 012 or permission of instructor.
 
 ## Attendance Policy
 
-We will institute, as a community, a process by which we regularly engage in **peer evaluations**. Through these, we will evaluate each other's contributions to projects, with particular emphasis on whether we were supportive of our colleagues and committed to excellence in our work. This may not mean we *achieved* excellence, but we should have been present in class and at meetings, attentive, responsible, and respectful of each other. 
+Every unexcused absence may result in the loss of 4% from your final letter grade.
 
-### My Role
-
-In the event that peer evaluations do not provide us with an effective mechanism for building a mutually supportive community in the classroom, I reserve the right to "step in." If your attendance becomes problematic (more than 3 unexcused absences total or two in a single week), 5% will be subtracted from your total, final grade for the third and each subsequent absence. Five absences total may result in failure of the course.
+This course is structured around active learning in the classroom. Your presence and participation is critical not only to your learning, but to those around you. 
 
 ## Technology Policies 
 
 Much of the work in this course will require use of the computer, so these policies are designed to help you better understand how to be effective in a technology-rich environment. 
 
 * **Laptop and Software**: We will regularly make use of laptops during class, and you are expected to have them unless explicitly stated otherwise.
-* **Unapproved Technology**: Technology often disrupts, rather than enhances, our day-to-day lives. **We will be responsible, as individuals, to manage technology like the adults that we are**. We will support each-other in making good decisions about this in class by reminding each-other politely, if necessary, that SMS, Facebook, and similar tools rarely have a place in our classroom.
+* **Unapproved Technology**: Technology often disrupts, rather than enhances, our day-to-day lives. **We will be responsible, as individuals, to manage technology like the adults that we are**. Facebook, text messaging, and similar time-wasting technologies have no place in our classroom.
 * **Communication**: The course website is your primary source for information about CRAFToE; our Moodle site will be used for posting grades and assignment submission. Messages about the course will often be sent by email. These are all mechanisms you would likely use in a professional position in the real world (corporate websites, internal content management systems, and email)---you are, likewise, expected to use them in a responsible and professional manner in this course.
-* **Backups**: All students are expected to back-up their work on a daily basis, which includes laboratories, assignments, and quizzes. The best way to do this is to store a copy of all work in a cloud service such as Dropbox, SkyDrive, Google Drive, or to use a DVD, flash drive, or some other media. Storing multiple copies of something on your laptop is not a backup. I will not be sympathetic to lost work in any way, shape, or form.
+* **Backups**: All students are expected to back-up their work on a daily basis, which includes laboratories, assignments, and quizzes. The best way to do this is to store a copy of all work in a cloud service such as [Dropbox](http://db.tt/zgUQOl6A), SkyDrive, Google Drive, or to use a DVD, flash drive, or some other media. Storing multiple copies of something on your laptop is not a backup. I will not be sympathetic to lost work in any way, shape, or form.
 * **Exceptions**: Exceptions to any of these technology policies will be considered on an individual case-by-case basis but will only be granted under extreme circumstances. 
 
 ## Collaboration and Teamwork
@@ -150,8 +131,8 @@ Please be careful to conform to these standards for teamwork, since they are des
 
 <table>
 <tr> <td> Work </td> <td> 60% </td> </tr>
-<tr> <td> Midterms </td> <td> 12% each </td> </tr>
-<tr> <td> Final </td> <td> 16% </td> </tr>
+<tr> <td> Exams </td> <td> 12% each </td> </tr>
+<tr> <td> Final (Project)</td> <td> 16% </td> </tr>
 </table>
 
 "Work" means work done in-class, homeworks, laboratories, presentations, etc.

@@ -6,3 +6,8 @@ base:
 # Server config
 auto: true
 permalink: announce/:categories/:year/:month/:day/:title/
+
+# Course Variables
+office_hours: "W 13:00 - 15:00, R 10:00 - 12:00, or by appt."
+phone: "925-238-3692"
+offering_number: 2nd
