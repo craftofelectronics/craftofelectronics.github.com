@@ -1,0 +1,238 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Craft of Electronics</title>
+    
+    <!-- Web Fonts -->
+    <link href='http://fonts.googleapis.com/css?family=Lato:700|Crimson+Text' rel='stylesheet' type='text/css'>
+
+
+    <link rel="stylesheet" href="/fall-2012/stylesheets/bootstrap.css">
+<link rel="stylesheet" href="/fall-2012/stylesheets/styles.css">
+<link rel="stylesheet" href="/fall-2012/stylesheets/pygment_trac.css">
+<!-- <link rel="stylesheet" href="/fall-2012/stylesheets/top-navbar.css"> -->
+<!-- <link rel="stylesheet" href="/fall-2012/stylesheets/minitabs.css"> -->
+<!-- <link rel="stylesheet" href="/fall-2012/stylesheets/fixed-nav.css"> -->
+    
+    <script src="/fall-2012/javascripts/scale.fix.js"></script>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <!-- These links need to be auto-generated based on traversing the site. -->
+<!-- That, or they should be an array in the site config... or something. -->
+
+<div id="printlogo">
+<img id="printlogo" src="/fall-2012/images/craftoe-logo-black-180.png" />
+</div>
+
+<ul class="noprint">
+  <li class="download"><a class="buttons home" href="/fall-2012/index.html">Home</a></li>
+  <li class="download"><a class="buttons book" href="/fall-2012/syllabus.html">Syllabus</a></li>
+  <li class="download"><a class="buttons calendar" href="/fall-2012/cal/">Calendar</a></li>
+  <li class="download"><a class="buttons book" href="/fall-2012/assignments/index.html">Assignments</a></li>
+  <li class="download"><a class="buttons book" href="/fall-2012/announce/index.html">Announcements</a></li>
+  <li class="download"><a class="buttons book" href="/fall-2012/resources.html">Resources</a></li>
+  <li class="download"><a class="buttons upload" href="http://moodle.berea.edu/course/view.php?id=1405">Moodle</a></li>
+  <hr/>
+  <li class="download"><a class="buttons home" href="/fall-2012/bereacontrasthouse/">Contrast House</a></li>
+  <li class="download"><a class="buttons software" href="/fall-2012/software/flow.html">Flow</a></li>  
+  <li class="download"><a class="buttons info" href="/fall-2012/contributors.html">About</a></li>
+</ul>
+
+        <p class="header">Twitter: <a href="http://twitter.com/craftoe/">@craftoe</a>
+<br/>
+Email: <script language="Javascript" type="text/javascript">
+<!--
+document.write('<a href="mai');
+document.write('lto');
+document.write(':&#106;&#97;&#100;&#117;&#100;&#109;');
+document.write('@');
+document.write('&#98;&#101;&#114;&#101;&#97;&#46;&#101;&#100;&#117;">');
+document.write('&#106;&#97;&#100;&#117;&#100;&#109;');
+document.write('@');
+document.write('&#98;&#101;&#114;&#101;&#97;&#46;&#101;&#100;&#117;<\/a>');
+// -->
+</script><noscript>&#106;&#97;&#100;&#117;&#100;&#109; at 
+&#98;&#101;&#114;&#101;&#97; dot &#101;&#100;&#117;</noscript>
+
+</p>
+
+      </header>
+      <section>
+      <h1 id='trimpots_and_multimeters'>Trimpots and Multimeters</h1>
+
+<p>The purposes of the trimpot lab is threefold:</p>
+
+<ol>
+<li><strong>To see how we can automatically control our environment with simple sensors</strong>.<br /> The photocell (sometimes called an &#8220;LDR&#8221;, or &#8220;light-dependent resistor&#8221;) is a very simple sensor that is used widely around the world.</li>
+
+<li><strong>To become familiar with the multimeter.</strong> <br /> The multimeter is one of the simplest, but most powerful tools we have available to us as practitioners of electronics. Here, we will use it to measure resistance.</li>
+
+<li><strong>To practice building circuits, plotting data, and using Ohms Law.</strong><br /> We will build a simple circuit and then plot data that we collect regarding that circuit. This will lead us to looking at Ohm&#8217;s Law and how it relates to the data we collected.</li>
+</ol>
+
+<h4 id='materials'>Materials</h4>
+
+<ol>
+<li>Laptop</li>
+
+<li>Multimeter (in the toolbox)</li>
+
+<li>Lab Notebook</li>
+
+<li>Writing Utensils</li>
+</ol>
+
+<h2 id='controlling_the_lights'>Controlling the Lights</h2>
+
+<p>First, lets see where we&#8217;re going. We&#8217;re going to start by building a circuit and writing a program that controls whether an LED is on based on how bright it is outside.</p>
+
+<h3 id='the_circuit'>The Circuit</h3>
+
+<p>First, use the following Fritzing diagram and schematic to build a circuit on your breadboard.</p>
+<div align='center'>
+  <img src='multimeter-basics/light-controller-breadboard.png' />
+</div><div align='center'>
+  <img src='multimeter-basics/light-controller-schematic.png' />
+</div>
+<h3 id='the_code'>The Code</h3>
+
+<p>Launch Flow, and use the &#8220;Sensing Light&#8221; blockset. This has the blocks you need for this particular lab. Think about how they might go together, and experiment along with your partner to put together a program that makes sense to you.</p>
+
+<p>You want a program that turns on your LED when it gets dark. You may need to experiment with the sensor and see how the values change as the light level changes.</p>
+
+<p><strong>HINT</strong>: You might want to use the &#8220;Print and Pass Through&#8221; block to see what values are being produced by your sensor.</p>
+
+<h3 id='demonstration'>Demonstration!</h3>
+
+<p>Once you have things working, demonstrate your working circuit for Matt before proceeding. Our goal in this lab is to understand this circuit more fully.</p>
+
+<h2 id='using_the_multimeter'>Using The Multimeter</h2>
+
+<p>Now, we want to substitute our variable resistor (or trim potentiometer, or &#8220;trimpot&#8221;) for the light dependent resistor (photocell).</p>
+<div align='center'>
+  <img src='multimeter-basics/trimpot-breadboard.png' />
+</div><div align='center'>
+  <img src='multimeter-basics/trimpot-schematic.png' />
+</div>
+<h3 id='data_collection'>Data Collection</h3>
+
+<p>Now that we&#8217;re up-and-running with our circuit, it&#8217;s time to collect some data. We&#8217;re going to do the following:</p>
+
+<ol>
+<li>Write a program that takes a reading from the sensor and prints its value to the computer.</li>
+
+<li>Dial in a value&#8230; that is, look at where the value stabilizes.</li>
+
+<li>Write that down.</li>
+
+<li>Disconnect the marked wire (below).</li>
+
+<li>Take a reading across the two orange wires with your multimeter. This is the resistance of the trimpot.</li>
+
+<li>Repeat from step 2.</li>
+</ol>
+
+<p>Now, here&#8217;s the trick&#8230; when you want to measure the resistance, we have to break the circuit. Otherwise, we&#8217;ll be measuring the resistance of the whole circuit, and that just doesn&#8217;t work&#8230;</p>
+<div align='center'>
+  <img src='multimeter-basics/trimpot-breadboard-note.png' />
+</div>
+<p>Create a table of 8&#8211;10 values&#8230; more values will give you a better chart in the end.</p>
+
+<h3 id='data_plotting'>Data Plotting</h3>
+
+<p>Create a graph with:</p>
+
+<ol>
+<li>Resistance on the Y-axis (vertical).</li>
+
+<li>The value you read from the sensor on the X-axis (horizontal).</li>
+</ol>
+
+<p>Draw a line (with a straightedge) that seems to best fit those data points.</p>
+
+<p>I have <a href='/downloads/20120925-multimeter-plotting-data.pdf'>created a pencast that briefly talks about the process of collecting your data and plotting it</a> (Pencast PDF) on an x-y plot (by hand). Remember that pencasts must be downloaded and viewed in Acrobat Reader to be viewable/readable.</p>
+
+<h1 id='check_in'>Check In</h1>
+
+<p>At this point, you should have some data regarding the resistance of the trimpot with respect to the sensor readings we found along the way. Check in with Matt regarding your progress so far.</p>
+
+<h1 id='swapping_things_around'>Swapping Things Around</h1>
+
+<p>After you have used your multimeter to measure the resistance across the trimpot, take it out of the circuit, and replace it with the photocell. The photocell is a light-dependent resistor: as more light strikes it, the resistance drops, and as it gets darker, the resistance increases.</p>
+
+<p>Your circuit should now look like the first circuit you built, but without the LED.</p>
+<div align='center'>
+  <img src='multimeter-basics/ldr-breadboard.png' />
+</div>
+<p>With this circuit, you want to do the following:</p>
+
+<ol>
+<li>Write a program that takes a reading from the circuit (in this case, from Analog 0, or A0)</li>
+
+<li>Display that number, as we did in our previous program.</li>
+
+<li>Find 8-10 places around the Danforth Tech building; record the location you are at, and the average reading that your Arduino reports.</li>
+
+<li>For each reading you take, look at your graph. What resistance is the LDR providing for that level of light.</li>
+</ol>
+
+<p>Now, armed with that information, complete the circuit so that it looks like the first circuit we built. Modify your program so that the LED turns on in the darkest parts of the building, but turns off in the lighter parts of the building.</p>
+
+<p>You have now built and programmed an automatic light switch that turns off lights when they are not needed!</p>
+
+<h1 id='writeup'>Writeup</h1>
+
+<h3 id='submission'>Submission</h3>
+
+<p>As with all assignments, you should submit your work to <a href='http://moodle.berea.edu/mod/assignment/view.php?id=55247'>Moodle</a>. And, as with all assignments, you should use a sensible filename:</p>
+
+<ul>
+<li>It should start with your username, which&#8230;</li>
+
+<li>should be followed by a hyphen, which&#8230;</li>
+
+<li>should be followed by the name of the assignment.</li>
+</ul>
+
+<p>For this lab, upload a document that &#8230;</p>
+
+<p>For example, I would name my report <strong>jadudm-multimeter-one.docx</strong>.</p>
+     </section>
+      <footer>
+	<!--
+  <p>
+    <small>Hosted on <a href="https://pages.github.com">GitHub Pages</a> using the Dinky theme.<br/>Icons by <a href="http://somerandomdude.com/work/iconic/">somerandomdude</a>.</small>
+    <br/>
+    <img alt="Creative Commons License" style="border-width:0px;margin:0px;" src="http://i.creativecommons.org/l/by-sa/3.0/80x15.png" />
+    <br/>
+    <small>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.</small>
+  </p>
+-->
+<a href="/contributors.html"><img alt="Creative Commons License" style="border-width:0px;margin:0px;" src="http://i.creativecommons.org/l/by-sa/3.0/80x15.png"/></a>
+
+</footer>
+    </div>
+
+    <!--[if !IE]><script>fixScale(document);</script><!--<![endif]-->
+		          <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+          </script>
+          <script type="text/javascript">
+            try {
+              var pageTracker = _gat._getTracker("UA-33570542-1");
+            pageTracker._trackPageview();
+            } catch(err) {}
+          </script>
+
+  </body>
+</html>

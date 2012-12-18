@@ -1,0 +1,150 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Craft of Electronics</title>
+    
+    <!-- Web Fonts -->
+    <link href='http://fonts.googleapis.com/css?family=Lato:700|Crimson+Text' rel='stylesheet' type='text/css'>
+
+
+    <link rel="stylesheet" href="/fall-2012/stylesheets/bootstrap.css">
+<link rel="stylesheet" href="/fall-2012/stylesheets/styles.css">
+<link rel="stylesheet" href="/fall-2012/stylesheets/pygment_trac.css">
+<!-- <link rel="stylesheet" href="/fall-2012/stylesheets/top-navbar.css"> -->
+<!-- <link rel="stylesheet" href="/fall-2012/stylesheets/minitabs.css"> -->
+<!-- <link rel="stylesheet" href="/fall-2012/stylesheets/fixed-nav.css"> -->
+    
+    <script src="/fall-2012/javascripts/scale.fix.js"></script>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <!-- These links need to be auto-generated based on traversing the site. -->
+<!-- That, or they should be an array in the site config... or something. -->
+
+<div id="printlogo">
+<img id="printlogo" src="/fall-2012/images/craftoe-logo-black-180.png" />
+</div>
+
+<ul class="noprint">
+  <li class="download"><a class="buttons home" href="/fall-2012/index.html">Home</a></li>
+  <li class="download"><a class="buttons book" href="/fall-2012/syllabus.html">Syllabus</a></li>
+  <li class="download"><a class="buttons calendar" href="/fall-2012/cal/">Calendar</a></li>
+  <li class="download"><a class="buttons book" href="/fall-2012/assignments/index.html">Assignments</a></li>
+  <li class="download"><a class="buttons book" href="/fall-2012/announce/index.html">Announcements</a></li>
+  <li class="download"><a class="buttons book" href="/fall-2012/resources.html">Resources</a></li>
+  <li class="download"><a class="buttons upload" href="http://moodle.berea.edu/course/view.php?id=1405">Moodle</a></li>
+  <hr/>
+  <li class="download"><a class="buttons home" href="/fall-2012/bereacontrasthouse/">Contrast House</a></li>
+  <li class="download"><a class="buttons software" href="/fall-2012/software/flow.html">Flow</a></li>  
+  <li class="download"><a class="buttons info" href="/fall-2012/contributors.html">About</a></li>
+</ul>
+
+        <p class="header">Twitter: <a href="http://twitter.com/craftoe/">@craftoe</a>
+<br/>
+Email: <script language="Javascript" type="text/javascript">
+<!--
+document.write('<a href="mai');
+document.write('lto');
+document.write(':&#106;&#97;&#100;&#117;&#100;&#109;');
+document.write('@');
+document.write('&#98;&#101;&#114;&#101;&#97;&#46;&#101;&#100;&#117;">');
+document.write('&#106;&#97;&#100;&#117;&#100;&#109;');
+document.write('@');
+document.write('&#98;&#101;&#114;&#101;&#97;&#46;&#101;&#100;&#117;<\/a>');
+// -->
+</script><noscript>&#106;&#97;&#100;&#117;&#100;&#109; at 
+&#98;&#101;&#114;&#101;&#97; dot &#101;&#100;&#117;</noscript>
+
+</p>
+
+      </header>
+      <section>
+      <h1 id='the_hbridge'>The H-Bridge</h1>
+
+<p>This circuit is the bane of every electronics student around the world. Around this circuit are the remains of many an ambitious student, certain they were amongst the elite.</p>
+
+<p>Fortunately, we&#8217;re not ambitious: we just want to build a motor control circuit.</p>
+
+<h2 id='transistors_and_diodes'>Transistors and Diodes</h2>
+
+<p>Transistors are digital switches; diodes only let current flow in one direction. Motors are large coils of wire, and when current flows through them, a magnetic field is induced, which gives rise to the rotation of a rotor. We use transistors to let us switch loads larger than our microcontroller can handle, and we use diodes to make sure that when the motor stops, the back current surge does not destroy everything in our circuit.</p>
+
+<p>Today, we&#8217;re going to build our own motor control circuit.</p>
+
+<h2 id='the_circuit'>The Circuit</h2>
+
+<p>There are two pages you&#8217;ll want to study with your partner: <a href='http://www.robotroom.com/BipolarHBridge.html'>the overview</a> and <a href='http://www.robotroom.com/BipolarHBridge2.html'>the build itself</a>.</p>
+
+<p>You&#8217;ll want to work in your larger teams again: two groups of TAD students should be working on building H-Bridges, and one group of CS students should be working out how they think they will control this circuit with the Arduino.</p>
+
+<p>Pull your power from the 5V pin on the Arduino, the ground from the GND pin, and use digital pins 2 through 12 for controlling the H-bridge. (You won&#8217;t need all of those pins; I&#8217;m just suggesting you leave pins 0, 1, and 13 alone.)</p>
+
+<h3 id='notes_for_the_tad_students'>Notes for the TAD students</h3>
+
+<p>I have quite a few transistors, but remember: you can burn them out.</p>
+
+<p>Check, double-check, and then triple-check your work. The way to do this:</p>
+
+<ol>
+<li>Redraw the circuit diagram on a piece of paper. Make it large, and clearly label everything.</li>
+
+<li>As a pair, talk through the entire circuit. Verify that every single component is drawn correctly in the schematic.</li>
+
+<li>One of you sits with the circuit, one of you sits with your large diagram. The &#8220;real circuit reader&#8221; talks through each-and-every connection; the &#8220;paper circuit reader&#8221; checks each circuit connection with the schematic. Put a small check mark next to every connection you&#8217;ve verified. One check mark should go at each end of the wire.</li>
+
+<li>Now, swap positions, and reverse the previous process: The person with the schematic should call out each of the connections, and the person with the physical circuit should verify each connection is as described. The person who, in step three, had the circuit should now be reading the schematic, and visa versa.</li>
+</ol>
+
+<p>This will take some time. This is the process I go through when designing and building circuits&#8230; I go from the datasheet, which describes the individual part, to the schematic, which shows it in the circuit, and then the physical circuit, to make sure that I correctly connected everything&#8230; and then back again. That cycle needs to be repeated, checked, and verified, if you want to have confidence in the work you do.</p>
+
+<p><a href='http://moodle.berea.edu/mod/assignment/view.php?id=61672'>Please upload this when you are done to Moodle</a>.</p>
+
+<h3 id='notes_for_the_cs_students'>Notes for the CS students</h3>
+
+<p><a href='http://www.robotroom.com/BipolarHBridge.html'>The table at the bottom of the overview page</a> is a really good place to start. Also, you may find <a href='http://www.instructables.com/id/H-Bridge-on-a-Breadboard/'>this Instructable to be useful</a>. Do you see where they use switches? Perhaps you could use another set of 2N3904 transistors instead?</p>
+
+<p>Or, instead of transistors, you may be able to achieve the same effect of applying VCC and GND by using <code>pinMode(OUTPUT)</code> and then using <code>digitalWrite(HIGH)</code> and <code>digitalWrite(LOW)</code>.</p>
+
+<p>You might want to plan out/write more than one control program while your colleagues are developing their circuits. I suggest something that turns on the motor in one direction for several seconds and then stops for several sections as a starting point&#8212;nothing fancy.</p>
+
+<p>You can use an LED in place of the H-Bridge to test out your code while you&#8217;re waiting for the actual circuit. Also, you can use</p>
+<code>Serial.println()</code>
+<p>statements to put debugging information in your program. If you open the serial monitor in the Arduino environment, you&#8217;ll be able to see messages that it sends back to your laptop.</p>
+     </section>
+      <footer>
+	<!--
+  <p>
+    <small>Hosted on <a href="https://pages.github.com">GitHub Pages</a> using the Dinky theme.<br/>Icons by <a href="http://somerandomdude.com/work/iconic/">somerandomdude</a>.</small>
+    <br/>
+    <img alt="Creative Commons License" style="border-width:0px;margin:0px;" src="http://i.creativecommons.org/l/by-sa/3.0/80x15.png" />
+    <br/>
+    <small>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.</small>
+  </p>
+-->
+<a href="/contributors.html"><img alt="Creative Commons License" style="border-width:0px;margin:0px;" src="http://i.creativecommons.org/l/by-sa/3.0/80x15.png"/></a>
+
+</footer>
+    </div>
+
+    <!--[if !IE]><script>fixScale(document);</script><!--<![endif]-->
+		          <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+          </script>
+          <script type="text/javascript">
+            try {
+              var pageTracker = _gat._getTracker("UA-33570542-1");
+            pageTracker._trackPageview();
+            } catch(err) {}
+          </script>
+
+  </body>
+</html>

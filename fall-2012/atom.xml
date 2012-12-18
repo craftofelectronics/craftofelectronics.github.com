@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Craft of Electronics @ Berea College</title>
+ <link href="http://craftofelectronics.org/atom.xml" rel="self"/>
+ <link href="http://craftofelectronics.org/"/>
+ <updated>2012-12-18T14:27:21-05:00</updated>
+ <id>http://craftofelectronics.org/</id>
+ <author>
+   <name>Matt Jadud</name>
+ </author>
+ 
+ 
+ <entry>
+   <title>All About Motors</title>
+   <link href="http://craftofelectronics.org/announce/2012/11/07/motors/"/>
+   <updated>2012-11-07T00:00:00-05:00</updated>
+   <id>http://craftofelectronics.org/announce/2012/11/07/motors</id>
+   <content type="html">&lt;h1 id='the_story_on_motors'&gt;The Story on Motors&lt;/h1&gt;
+
+&lt;p&gt;The story on motors ultimately gets down to some very nitty-gritty physics. This is, of course, the truth of the study of all of electronics: if you want to understand it deeply, you need to become comfortable with the way electrons move around in the universe of matter.&lt;/p&gt;
+
+&lt;p&gt;To the best of my ability, without getting lost in the details, this is a story about how motors work.&lt;/p&gt;
+
+&lt;h2 id='the_magnetic_field'&gt;The Magnetic Field&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href='http://en.wikipedia.org/wiki/Magnetic_field'&gt;magnetic field&lt;/a&gt; is not as well understood (at the quantum mechanical level) as we might like. Students of physics typically encounter it first in a systematic way in courses titled things like &amp;#8220;Electricity and Magnetism,&amp;#8221; or &amp;#8220;Electromagnetic Theory.&amp;#8221; This is often a course taken as a second or third year student, after a mastery of multivariate calculus has been obtained.&lt;/p&gt;
+
+&lt;p&gt;Our first video starts with current. As electrons move through a wire, they &lt;em&gt;induce&lt;/em&gt; a magnetic field. This means, essentially, that they create a magnetic field through their motion.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;VIDEO&lt;/strong&gt;: &lt;a href='http://www.youtube.com/watch?v=Z927bDX1l04&amp;amp;feature=edu&amp;amp;list=PLF7A98FE5F5D0B39D'&gt;Inducing a Field&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;When we say &amp;#8220;field,&amp;#8221; we really mean a &lt;strong&gt;vector field&lt;/strong&gt;. So, around the wire, at every single point in space, the magnetic field has a &lt;strong&gt;direction and an intensity&lt;/strong&gt;. The video below explores this idea.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;VIDEO&lt;/strong&gt;: &lt;a href='http://www.youtube.com/embed/-NeF7u_9_Sw'&gt;The Magnetic Field&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This video shows us how the B vector (where &amp;#8220;B&amp;#8221; is the magnetic field) changes as you move around the wire. And, the video shows us &amp;#8220;snapshots&amp;#8221; of that vector in space around the wire. All those vectors, at every point, constitute the direction and intensity of the magnetic field.&lt;/p&gt;
+
+&lt;h2 id='magnets_and_coils'&gt;Magnets and Coils&lt;/h2&gt;
+
+&lt;p&gt;Now, you&amp;#8217;re probably going to ask me &amp;#8220;how is it that things are magnetic?&amp;#8221; Well&amp;#8230; that&amp;#8217;s a good question. The &lt;a href='http://en.wikipedia.org/wiki/Magnet'&gt;Wikipedia essentially says it&amp;#8217;s magic&lt;/a&gt;, and &lt;a href='http://www.allaboutcircuits.com/vol_1/chpt_14/1.html'&gt;All About Circuits has a good piece on this, which you should read&lt;/a&gt;. However, neither explains &lt;em&gt;why&lt;/em&gt;, which is unsurprising. It probably involves quantum mechanics.&lt;/p&gt;
+
+&lt;p&gt;When we move a magnet towards a coil, we induce the electrons to move. This first video shows how one end of a permanent magnet induces motion in one direction:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;VIDEO&lt;/strong&gt;: &lt;a href='http://www.youtube.com/watch?v=tKmQ9T8R1Yw&amp;amp;list=UUx5t27iLLDkQmIp4PZ4uEdw&amp;amp;index=3&amp;amp;feature=plcp'&gt;Inducing Current Flow&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;And this video shows that we can induce motion in the opposite direction when we use the other end of the magnet.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;VIDEO&lt;/strong&gt;: &lt;a href='http://www.youtube.com/watch?v=utF0hT30tOM&amp;amp;list=UUx5t27iLLDkQmIp4PZ4uEdw&amp;amp;index=2&amp;amp;feature=plcp'&gt;Inducing Current Flow&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This is important, because motors involve wires in loops&amp;#8230; and as we move a wire loop trough a magnetic field, it induces current to flow. This video demonstrates a rotor (which is what they call the rotating bit) moving through a magnetic field induced by a permanent field.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;VIDEO&lt;/strong&gt;: &lt;a href='http://www.youtube.com/embed/d_aTC0iKO68'&gt;Building a simple motor and generator&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id='building_a_motor'&gt;Building a Motor&lt;/h2&gt;
+
+&lt;p&gt;This is, &lt;em&gt;in essence&lt;/em&gt;, how we create a motor. In fact, we can watch a video where exactly this motor is built.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;VIDEO&lt;/strong&gt;: &lt;a href='http://www.youtube.com/embed/9Wby4aHyXJQ'&gt;A Simple Motor&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We happen to have large amounts of motor wire; if anyone is interested in building a motor, I&amp;#8217;d be happy to support you in building a demo that you can share with the rest of the class.&lt;/p&gt;
+
+&lt;p&gt;Of course, real people build real motors, and it involves the exact same thing&amp;#8230; on a slightly larger scale. Here&amp;#8217;s a video from Florida Bearing where a craftsman is assembling a large motor winding.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;VIDEO&lt;/strong&gt;: &lt;a href='http://www.youtube.com/embed/9Wby4aHyXJQ'&gt;Winding a Large Motor&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;What I don&amp;#8217;t know off the top of my head is whether small motors (like those used in hobby aircraft and the like) are built by hand, or wound automatically. My fear/suspicion is that small motors are also wound by hand by low-paid laborers.&lt;/p&gt;
+
+&lt;h2 id='repairing_motors'&gt;Repairing Motors&lt;/h2&gt;
+
+&lt;p&gt;When a motor &amp;#8220;burns out,&amp;#8221; you can actually rebuild it. It is likely that the housing might be damaged (unless it is steel), and the permanent magnet is probably just fine. That burnout is probably because too much load was applied to the motor, and the current being fed into the coiled wire had no outlet&amp;#8230; and, that current turned into heat. This will overheat the copper wire, which in turn will melt its insulation, which will then short the motor, which will lead to more heat.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;VIDEO&lt;/strong&gt;: &lt;a href='http://www.youtube.com/embed/kFnFr-DOPf8'&gt;Resistance Leads to Heat&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;You get the picture.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;#8217;s someone who rebuilt a fairly large motor; the first part of the video shows his test-spinup (which, honestly, I&amp;#8217;d be a bit further away for), and what follows is a slideshow of his repair process.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;VIDEO&lt;/strong&gt;: &lt;a href='http://www.youtube.com/embed/ccmr3ix8ebk'&gt;Motor Rebuild&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id='generating_power'&gt;Generating Power&lt;/h2&gt;
+
+&lt;p&gt;Finally, if we spin the motor, it will output current. This is the essence of wind, hydro, and most all forms of energy production. (Coal just boils water that is turned into steam, which in turn&amp;#8230; spins a turbine. Typically.)&lt;/p&gt;
+
+&lt;p&gt;Below is what might constitute the holy grail of biologically-based power generation:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;VIDEO&lt;/strong&gt;: &lt;a href='http://www.youtube.com/embed/jk3xBhqcjqY'&gt;Biologically Inspired Power Generation&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If you search YouTube, you&amp;#8217;ll find many videos for people who claim to be able to generate infinite energy based on the ideas of Nick Tesla and others. The above video is one of the only promising approaches I know with respect to solving the power needs of the world.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Draft Build Instructions</title>
+   <link href="http://craftofelectronics.org/announce/2012/10/03/draft-build-instructions/"/>
+   <updated>2012-10-03T00:00:00-04:00</updated>
+   <id>http://craftofelectronics.org/announce/2012/10/03/draft-build-instructions</id>
+   <content type="html">&lt;h1 id='draft_build_instructions'&gt;Draft Build Instructions&lt;/h1&gt;
+
+&lt;p&gt;These are &lt;a href='https://dl.dropbox.com/u/100109196/draft-build-instructions.pdf'&gt;draft instructions, subject to change&lt;/a&gt;.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Voltage Dividers!</title>
+   <link href="http://craftofelectronics.org/announce/2012/10/01/voltage-dividers/"/>
+   <updated>2012-10-01T00:00:00-04:00</updated>
+   <id>http://craftofelectronics.org/announce/2012/10/01/voltage-dividers</id>
+   <content type="html">&lt;h1 id='voltage_dividers'&gt;Voltage Dividers&lt;/h1&gt;
+
+&lt;p&gt;These pencasts explore the mathematics we did in class on Friday. I work three problems, step-by-step, so you can follow along.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href='/downloads/20120929-voltage-dividers-01-pencast.pdf'&gt;Voltage Dividers 1&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='/downloads/20120929-voltage-dividers-02-pencast.pdf'&gt;Voltage Dividers 2&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='/downloads/20120929-voltage-dividers-03-pencast.pdf'&gt;Voltage Dividers 3&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Remember, you need to download these and use Acrobat to view them.&lt;/p&gt;
+
+&lt;h4 id='how_to_use_the_pencasts'&gt;How To Use The Pencasts&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Just watching will not help you learn.&lt;/strong&gt; If this material confuses you, you need to actually put pen to paper and do the problems along with me.&lt;/p&gt;
+
+&lt;p&gt;After you&amp;#8217;re done with these problems, download the &lt;a href='http://goo.gl/C0aoo'&gt;Voltage Dividers!&lt;/a&gt; app. This Windows program will let you practice problems involving voltage dividers. It assumes two resistors (R1 and R2), and asks you to report the voltage drop that would take place across of each of those resistors. At any point, you can click the &lt;strong&gt;Brag to Matt&lt;/strong&gt; button and report your score to me.&lt;/p&gt;
+
+&lt;p&gt;My ask: aspire to getting 15 or 20 right. You should be able to do these without difficulty. At that point, you will be ready for the next step.&lt;/p&gt;
+
+&lt;p&gt;I am available for office hours, and you might also consider coming in to work with a TA during the open lab times (7:30PM - 9:00PM, Sunday through Thursday).&lt;/p&gt;
+
+&lt;p&gt;(If the link above didn&amp;#8217;t work for downloading the app, try &lt;a href='http://jadud.com/people/mcj/files/voltage-dividers.zip'&gt;this one&lt;/a&gt;.)&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Week Four Plan</title>
+   <link href="http://craftofelectronics.org/announce/2012/09/09/week-four-plan/"/>
+   <updated>2012-09-09T00:00:00-04:00</updated>
+   <id>http://craftofelectronics.org/announce/2012/09/09/week-four-plan</id>
+   <content type="html">&lt;h1 id='week_four_plan'&gt;Week Four Plan&lt;/h1&gt;
+
+&lt;p&gt;The &lt;a href='/cal/w03.html'&gt;plan for week four&lt;/a&gt; has been posted. This week, we&amp;#8217;ll finish our Freeduinos, test them with some software, and also start learning our first fundamental tool of electronics: the oscilloscope.&lt;/p&gt;
+
+&lt;h2 id='turning_in_work_a_note'&gt;Turning In Work: A Note&lt;/h2&gt;
+
+&lt;p&gt;For all future assignments, please always name your files:&lt;/p&gt;
+&lt;p align='center'&gt;
+USERNAME-ASSIGNMENT.doc
+&lt;/p&gt;
+&lt;p&gt;In the last round of reports, we received anything and everything in terms of filenames. Admittedly, I didn&amp;#8217;t explicitly ask for a particular naming scheme, and I will try and remember to do so in the future. However, whenever you are turning in anything electronically, you would be wise to always &lt;strong&gt;name your files in a way that uniquely identifies them as yours&lt;/strong&gt;.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Week Three Plan</title>
+   <link href="http://craftofelectronics.org/announce/2012/09/03/week-three-plan/"/>
+   <updated>2012-09-03T00:00:00-04:00</updated>
+   <id>http://craftofelectronics.org/announce/2012/09/03/week-three-plan</id>
+   <content type="html">&lt;h1 id='week_three_plan'&gt;Week Three Plan&lt;/h1&gt;
+
+&lt;p&gt;The &lt;a href='/cal/w02.html'&gt;plan for week three&lt;/a&gt; has been posted. We will be building our Freeduinos, as well as beginning design and planning work for our &lt;a href='/bereacontrasthouse/index.html'&gt;Contrast Houses&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id='site_updates'&gt;Site Updates&lt;/h1&gt;
+
+&lt;p&gt;It is worth noting that there are now sections in the menu for &amp;#8220;Assignments&amp;#8221; and &amp;#8220;Resources.&amp;#8221; The assignments page lists all of the assignments we do (in class or as homework), which may make it easier for you to find things.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Bring Your Eye Protection!</title>
+   <link href="http://craftofelectronics.org/announce/2012/09/02/safety-glasses/"/>
+   <updated>2012-09-02T00:00:00-04:00</updated>
+   <id>http://craftofelectronics.org/announce/2012/09/02/safety-glasses</id>
+   <content type="html">&lt;h1 id='bring_your_eye_protection'&gt;Bring Your Eye Protection!&lt;/h1&gt;
+
+&lt;p&gt;This week, we&amp;#8217;ll be building our Freeduinos. If you don&amp;#8217;t wear eye protection, this is what can happen:&lt;/p&gt;
+&lt;div align='center'&gt;
+&lt;a href='http://www.flickr.com/photos/nivaldoarruda/4356904909/' title='Zombie Walk 2010 - Curitiba by Nivaldo Arruda, on Flickr'&gt;&lt;img alt='Zombie Walk 2010 - Curitiba' height='375' src='http://farm5.staticflickr.com/4003/4356904909_39b5de0d14.jpg' width='500' /&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Zombie Walk&lt;/em&gt; by &lt;a href='http://www.flickr.com/photos/nivaldoarruda/4356904909/in/photostream/'&gt;nivaldoarruda&lt;/a&gt;, CC-BY.
+&lt;/div&gt;
+&lt;p&gt;Soldering is, by-and-large, very safe. However, we don&amp;#8217;t wear eye protection because things are &lt;em&gt;usually&lt;/em&gt; safe; we wear eye protection because of weird accidents we don&amp;#8217;t expect, and because we all like having depth perception. (Remember&amp;#8230; to perceive depth, you must have &lt;em&gt;two&lt;/em&gt; eyes, not one.)&lt;/p&gt;</content>
+ </entry>
+ 
+ 
+</feed>

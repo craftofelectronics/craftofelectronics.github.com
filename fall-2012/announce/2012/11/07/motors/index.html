@@ -1,0 +1,170 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Craft of Electronics</title>
+    
+    <!-- Web Fonts -->
+    <link href='http://fonts.googleapis.com/css?family=Lato:700|Crimson+Text' rel='stylesheet' type='text/css'>
+
+
+    <link rel="stylesheet" href="/fall-2012/stylesheets/bootstrap.css">
+<link rel="stylesheet" href="/fall-2012/stylesheets/styles.css">
+<link rel="stylesheet" href="/fall-2012/stylesheets/pygment_trac.css">
+<!-- <link rel="stylesheet" href="/fall-2012/stylesheets/top-navbar.css"> -->
+<!-- <link rel="stylesheet" href="/fall-2012/stylesheets/minitabs.css"> -->
+<!-- <link rel="stylesheet" href="/fall-2012/stylesheets/fixed-nav.css"> -->
+    
+    <script src="/fall-2012/javascripts/scale.fix.js"></script>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <!-- These links need to be auto-generated based on traversing the site. -->
+<!-- That, or they should be an array in the site config... or something. -->
+
+<div id="printlogo">
+<img id="printlogo" src="/fall-2012/images/craftoe-logo-black-180.png" />
+</div>
+
+<ul class="noprint">
+  <li class="download"><a class="buttons home" href="/fall-2012/index.html">Home</a></li>
+  <li class="download"><a class="buttons book" href="/fall-2012/syllabus.html">Syllabus</a></li>
+  <li class="download"><a class="buttons calendar" href="/fall-2012/cal/">Calendar</a></li>
+  <li class="download"><a class="buttons book" href="/fall-2012/assignments/index.html">Assignments</a></li>
+  <li class="download"><a class="buttons book" href="/fall-2012/announce/index.html">Announcements</a></li>
+  <li class="download"><a class="buttons book" href="/fall-2012/resources.html">Resources</a></li>
+  <li class="download"><a class="buttons upload" href="http://moodle.berea.edu/course/view.php?id=1405">Moodle</a></li>
+  <hr/>
+  <li class="download"><a class="buttons home" href="/fall-2012/bereacontrasthouse/">Contrast House</a></li>
+  <li class="download"><a class="buttons software" href="/fall-2012/software/flow.html">Flow</a></li>  
+  <li class="download"><a class="buttons info" href="/fall-2012/contributors.html">About</a></li>
+</ul>
+
+        <p class="header">Twitter: <a href="http://twitter.com/craftoe/">@craftoe</a>
+<br/>
+Email: <script language="Javascript" type="text/javascript">
+<!--
+document.write('<a href="mai');
+document.write('lto');
+document.write(':&#106;&#97;&#100;&#117;&#100;&#109;');
+document.write('@');
+document.write('&#98;&#101;&#114;&#101;&#97;&#46;&#101;&#100;&#117;">');
+document.write('&#106;&#97;&#100;&#117;&#100;&#109;');
+document.write('@');
+document.write('&#98;&#101;&#114;&#101;&#97;&#46;&#101;&#100;&#117;<\/a>');
+// -->
+</script><noscript>&#106;&#97;&#100;&#117;&#100;&#109; at 
+&#98;&#101;&#114;&#101;&#97; dot &#101;&#100;&#117;</noscript>
+
+</p>
+
+      </header>
+      <section>
+      <h1 id='the_story_on_motors'>The Story on Motors</h1>
+
+<p>The story on motors ultimately gets down to some very nitty-gritty physics. This is, of course, the truth of the study of all of electronics: if you want to understand it deeply, you need to become comfortable with the way electrons move around in the universe of matter.</p>
+
+<p>To the best of my ability, without getting lost in the details, this is a story about how motors work.</p>
+
+<h2 id='the_magnetic_field'>The Magnetic Field</h2>
+
+<p>The <a href='http://en.wikipedia.org/wiki/Magnetic_field'>magnetic field</a> is not as well understood (at the quantum mechanical level) as we might like. Students of physics typically encounter it first in a systematic way in courses titled things like &#8220;Electricity and Magnetism,&#8221; or &#8220;Electromagnetic Theory.&#8221; This is often a course taken as a second or third year student, after a mastery of multivariate calculus has been obtained.</p>
+
+<p>Our first video starts with current. As electrons move through a wire, they <em>induce</em> a magnetic field. This means, essentially, that they create a magnetic field through their motion.</p>
+
+<p><strong>VIDEO</strong>: <a href='http://www.youtube.com/watch?v=Z927bDX1l04&amp;feature=edu&amp;list=PLF7A98FE5F5D0B39D'>Inducing a Field</a></p>
+
+<p>When we say &#8220;field,&#8221; we really mean a <strong>vector field</strong>. So, around the wire, at every single point in space, the magnetic field has a <strong>direction and an intensity</strong>. The video below explores this idea.</p>
+
+<p><strong>VIDEO</strong>: <a href='http://www.youtube.com/embed/-NeF7u_9_Sw'>The Magnetic Field</a></p>
+
+<p>This video shows us how the B vector (where &#8220;B&#8221; is the magnetic field) changes as you move around the wire. And, the video shows us &#8220;snapshots&#8221; of that vector in space around the wire. All those vectors, at every point, constitute the direction and intensity of the magnetic field.</p>
+
+<h2 id='magnets_and_coils'>Magnets and Coils</h2>
+
+<p>Now, you&#8217;re probably going to ask me &#8220;how is it that things are magnetic?&#8221; Well&#8230; that&#8217;s a good question. The <a href='http://en.wikipedia.org/wiki/Magnet'>Wikipedia essentially says it&#8217;s magic</a>, and <a href='http://www.allaboutcircuits.com/vol_1/chpt_14/1.html'>All About Circuits has a good piece on this, which you should read</a>. However, neither explains <em>why</em>, which is unsurprising. It probably involves quantum mechanics.</p>
+
+<p>When we move a magnet towards a coil, we induce the electrons to move. This first video shows how one end of a permanent magnet induces motion in one direction:</p>
+
+<p><strong>VIDEO</strong>: <a href='http://www.youtube.com/watch?v=tKmQ9T8R1Yw&amp;list=UUx5t27iLLDkQmIp4PZ4uEdw&amp;index=3&amp;feature=plcp'>Inducing Current Flow</a></p>
+
+<p>And this video shows that we can induce motion in the opposite direction when we use the other end of the magnet.</p>
+
+<p><strong>VIDEO</strong>: <a href='http://www.youtube.com/watch?v=utF0hT30tOM&amp;list=UUx5t27iLLDkQmIp4PZ4uEdw&amp;index=2&amp;feature=plcp'>Inducing Current Flow</a></p>
+
+<p>This is important, because motors involve wires in loops&#8230; and as we move a wire loop trough a magnetic field, it induces current to flow. This video demonstrates a rotor (which is what they call the rotating bit) moving through a magnetic field induced by a permanent field.</p>
+
+<p><strong>VIDEO</strong>: <a href='http://www.youtube.com/embed/d_aTC0iKO68'>Building a simple motor and generator</a></p>
+
+<h2 id='building_a_motor'>Building a Motor</h2>
+
+<p>This is, <em>in essence</em>, how we create a motor. In fact, we can watch a video where exactly this motor is built.</p>
+
+<p><strong>VIDEO</strong>: <a href='http://www.youtube.com/embed/9Wby4aHyXJQ'>A Simple Motor</a></p>
+
+<p>We happen to have large amounts of motor wire; if anyone is interested in building a motor, I&#8217;d be happy to support you in building a demo that you can share with the rest of the class.</p>
+
+<p>Of course, real people build real motors, and it involves the exact same thing&#8230; on a slightly larger scale. Here&#8217;s a video from Florida Bearing where a craftsman is assembling a large motor winding.</p>
+
+<p><strong>VIDEO</strong>: <a href='http://www.youtube.com/embed/9Wby4aHyXJQ'>Winding a Large Motor</a></p>
+
+<p>What I don&#8217;t know off the top of my head is whether small motors (like those used in hobby aircraft and the like) are built by hand, or wound automatically. My fear/suspicion is that small motors are also wound by hand by low-paid laborers.</p>
+
+<h2 id='repairing_motors'>Repairing Motors</h2>
+
+<p>When a motor &#8220;burns out,&#8221; you can actually rebuild it. It is likely that the housing might be damaged (unless it is steel), and the permanent magnet is probably just fine. That burnout is probably because too much load was applied to the motor, and the current being fed into the coiled wire had no outlet&#8230; and, that current turned into heat. This will overheat the copper wire, which in turn will melt its insulation, which will then short the motor, which will lead to more heat.</p>
+
+<p><strong>VIDEO</strong>: <a href='http://www.youtube.com/embed/kFnFr-DOPf8'>Resistance Leads to Heat</a></p>
+
+<p>You get the picture.</p>
+
+<p>Here&#8217;s someone who rebuilt a fairly large motor; the first part of the video shows his test-spinup (which, honestly, I&#8217;d be a bit further away for), and what follows is a slideshow of his repair process.</p>
+
+<p><strong>VIDEO</strong>: <a href='http://www.youtube.com/embed/ccmr3ix8ebk'>Motor Rebuild</a></p>
+
+<h2 id='generating_power'>Generating Power</h2>
+
+<p>Finally, if we spin the motor, it will output current. This is the essence of wind, hydro, and most all forms of energy production. (Coal just boils water that is turned into steam, which in turn&#8230; spins a turbine. Typically.)</p>
+
+<p>Below is what might constitute the holy grail of biologically-based power generation:</p>
+
+<p><strong>VIDEO</strong>: <a href='http://www.youtube.com/embed/jk3xBhqcjqY'>Biologically Inspired Power Generation</a></p>
+
+<p>If you search YouTube, you&#8217;ll find many videos for people who claim to be able to generate infinite energy based on the ideas of Nick Tesla and others. The above video is one of the only promising approaches I know with respect to solving the power needs of the world.</p>
+     </section>
+      <footer>
+	<!--
+  <p>
+    <small>Hosted on <a href="https://pages.github.com">GitHub Pages</a> using the Dinky theme.<br/>Icons by <a href="http://somerandomdude.com/work/iconic/">somerandomdude</a>.</small>
+    <br/>
+    <img alt="Creative Commons License" style="border-width:0px;margin:0px;" src="http://i.creativecommons.org/l/by-sa/3.0/80x15.png" />
+    <br/>
+    <small>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.</small>
+  </p>
+-->
+<a href="/contributors.html"><img alt="Creative Commons License" style="border-width:0px;margin:0px;" src="http://i.creativecommons.org/l/by-sa/3.0/80x15.png"/></a>
+
+</footer>
+    </div>
+
+    <!--[if !IE]><script>fixScale(document);</script><!--<![endif]-->
+		          <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+          </script>
+          <script type="text/javascript">
+            try {
+              var pageTracker = _gat._getTracker("UA-33570542-1");
+            pageTracker._trackPageview();
+            } catch(err) {}
+          </script>
+
+  </body>
+</html>

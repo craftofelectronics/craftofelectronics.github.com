@@ -1,0 +1,138 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Craft of Electronics</title>
+    
+    <!-- Web Fonts -->
+    <link href='http://fonts.googleapis.com/css?family=Lato:700|Crimson+Text' rel='stylesheet' type='text/css'>
+
+
+    <link rel="stylesheet" href="/fall-2012/stylesheets/bootstrap.css">
+<link rel="stylesheet" href="/fall-2012/stylesheets/styles.css">
+<link rel="stylesheet" href="/fall-2012/stylesheets/pygment_trac.css">
+<!-- <link rel="stylesheet" href="/fall-2012/stylesheets/top-navbar.css"> -->
+<!-- <link rel="stylesheet" href="/fall-2012/stylesheets/minitabs.css"> -->
+<!-- <link rel="stylesheet" href="/fall-2012/stylesheets/fixed-nav.css"> -->
+    
+    <script src="/fall-2012/javascripts/scale.fix.js"></script>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <!-- These links need to be auto-generated based on traversing the site. -->
+<!-- That, or they should be an array in the site config... or something. -->
+
+<div id="printlogo">
+<img id="printlogo" src="/fall-2012/images/craftoe-logo-black-180.png" />
+</div>
+
+<ul class="noprint">
+  <li class="download"><a class="buttons home" href="/fall-2012/index.html">Home</a></li>
+  <li class="download"><a class="buttons book" href="/fall-2012/syllabus.html">Syllabus</a></li>
+  <li class="download"><a class="buttons calendar" href="/fall-2012/cal/">Calendar</a></li>
+  <li class="download"><a class="buttons book" href="/fall-2012/assignments/index.html">Assignments</a></li>
+  <li class="download"><a class="buttons book" href="/fall-2012/announce/index.html">Announcements</a></li>
+  <li class="download"><a class="buttons book" href="/fall-2012/resources.html">Resources</a></li>
+  <li class="download"><a class="buttons upload" href="http://moodle.berea.edu/course/view.php?id=1405">Moodle</a></li>
+  <hr/>
+  <li class="download"><a class="buttons home" href="/fall-2012/bereacontrasthouse/">Contrast House</a></li>
+  <li class="download"><a class="buttons software" href="/fall-2012/software/flow.html">Flow</a></li>  
+  <li class="download"><a class="buttons info" href="/fall-2012/contributors.html">About</a></li>
+</ul>
+
+        <p class="header">Twitter: <a href="http://twitter.com/craftoe/">@craftoe</a>
+<br/>
+Email: <script language="Javascript" type="text/javascript">
+<!--
+document.write('<a href="mai');
+document.write('lto');
+document.write(':&#106;&#97;&#100;&#117;&#100;&#109;');
+document.write('@');
+document.write('&#98;&#101;&#114;&#101;&#97;&#46;&#101;&#100;&#117;">');
+document.write('&#106;&#97;&#100;&#117;&#100;&#109;');
+document.write('@');
+document.write('&#98;&#101;&#114;&#101;&#97;&#46;&#101;&#100;&#117;<\/a>');
+// -->
+</script><noscript>&#106;&#97;&#100;&#117;&#100;&#109; at 
+&#98;&#101;&#114;&#101;&#97; dot &#101;&#100;&#117;</noscript>
+
+</p>
+
+      </header>
+      <section>
+      <h1 id='electronics_without_programming'>Electronics&#8230; without programming</h1>
+
+<p>The challenge we face in <em>Craft of Electronics</em> is that we only have 14 weeks. As we learn digital (and some analog) electronics in the context of the <a href='/fall-2012/bereacontrasthouse/'>Berea Contrast House</a>, we don&#8217;t have time to program an Arduino in C++. <strong>There simply is not time</strong>.</p>
+
+<h2 id='getting_flow'>Getting Flow</h2>
+
+<p>Flow is available for <a href='http://goo.gl/HNalJ'>Mac</a>, <a href='http://goo.gl/r7hGH'>Windows</a>, and <a href='http://goo.gl/W13c2'>Linux</a>. If you have any problems, please join the <a href='http://concurrency.cc/docs/mailinglists.html'>users mailing list</a> at concurrency.cc.</p>
+<p align='center'>
+  <img src='/fall-2012/images/flow-for-the-arduino.png' />
+</p>
+<h2 id='how_does_it_work'>How Does It Work?</h2>
+
+<p>Flow was developed to provide students a powerful way to program their Arduino. Specifically, we look at our code as a <strong>flow</strong> of data from one block to the next. Looking at the diagram above:</p>
+
+<ol>
+<li>The first block says <em>Read Sensor</em>. It reads from pin A0, and sends the value (0-100) over the wire.</li>
+
+<li>The second block says <em>Fade</em>. It reads a value flowing over the wire, and then sets the fade level of an LED on a pin. Here, we&#8217;ve selected pin 3.</li>
+</ol>
+
+<p>That&#8217;s it. We have a program that makes an LED brighter when a sensor is active, and lower when it is dormant. Because the data flows from one block to the next, we don&#8217;t call these programs, but <strong>flows</strong>.</p>
+
+<h1 id='license'>License</h1>
+
+<p>Flow is free and open software available under a GPL license. If you want to contribute to Flow in any way, join the <a href='http://concurrency.cc/docs/mailinglists.html'>developers list</a> at concurrency.cc. Or, give Matt an email directly.</p>
+
+<p>The <a href='https://github.com/craftofelectronics/flow'>Flow source</a> can be found on Github.</p>
+
+<p>Things that need doing:</p>
+
+<ul>
+<li><strong>Documentation</strong>. It might be nice to have a series of flows that introduce the environment to new users.</li>
+
+<li><strong>Block sets</strong>. It is easy to produce separate sets of blocks for different tasks.</li>
+
+<li><strong>Python porting</strong>. We have the beginnings of a pure-Python version of Flow. A bit of love, and we can re-implement things&#8230; without the web browser and wacky server component.</li>
+
+<li><strong>Libraries</strong>. If you&#8217;re hardcore, we could use help developing libraries to support a wide array of Arduino sensors, motors, and peripherals.</li>
+</ul>
+     </section>
+      <footer>
+	<!--
+  <p>
+    <small>Hosted on <a href="https://pages.github.com">GitHub Pages</a> using the Dinky theme.<br/>Icons by <a href="http://somerandomdude.com/work/iconic/">somerandomdude</a>.</small>
+    <br/>
+    <img alt="Creative Commons License" style="border-width:0px;margin:0px;" src="http://i.creativecommons.org/l/by-sa/3.0/80x15.png" />
+    <br/>
+    <small>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.</small>
+  </p>
+-->
+<a href="/contributors.html"><img alt="Creative Commons License" style="border-width:0px;margin:0px;" src="http://i.creativecommons.org/l/by-sa/3.0/80x15.png"/></a>
+
+</footer>
+    </div>
+
+    <!--[if !IE]><script>fixScale(document);</script><!--<![endif]-->
+		          <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+          </script>
+          <script type="text/javascript">
+            try {
+              var pageTracker = _gat._getTracker("UA-33570542-1");
+            pageTracker._trackPageview();
+            } catch(err) {}
+          </script>
+
+  </body>
+</html>
