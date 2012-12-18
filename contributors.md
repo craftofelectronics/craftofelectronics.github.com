@@ -68,6 +68,12 @@ PDF: [black]({{ site.base }}/images/craftofelectronics-logo/craftofelectronics-b
 
 ## This Website
 
+### Website History
+You can view the course website as it existed in previous offerings.
+
+* [Fall 2012]({{site.base}}/fall-2012/) The first offering of the course.
+
+### Open Components
 * The arrows in the calendar come from the [Picol collection](http://picol.org/icon_library.php), and are available under a Creative Commons BY-SA license.
 * The template...
 * The navigation icons...
