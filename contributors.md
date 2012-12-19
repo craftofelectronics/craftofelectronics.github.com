@@ -32,6 +32,9 @@ If you find anything that needs fixing, you can let us know, or (if you want) yo
 
 The initial design of this course was carried out at Berea College during the summer of 2012. Many people contributed to this work in a variety of ways.
 
+### Winter 2012
+
+### Initial Design
 * [Sebastian Dziallas](http://blog.sdziallas.com/) (Olin College '13) spent the summer collaborating closely on the design of *Craft of Electronics*, brainstorming activities and overall course structure.
 * [Mel Chua](http://melchua.com/) is a PhD student at Purdue University, and helped kickstart the design, as well as ask hard questions throughout the process.
 * [Jan Pearce](http://faculty.berea.edu/pearcej/) is a Professor of Computer Science at Berea College, and provided critical institutional context throughout the design process.
