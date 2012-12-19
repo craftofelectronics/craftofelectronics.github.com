@@ -1,3 +1,58 @@
+# Notes for Editing
+
+First, you'll want to install Jekyll. This involves several steps.
+
+http://blog.ntotten.com/2012/03/02/github-pages-with-jekyll-local-development-on-windows/
+
+Then, you can practice editing in Markdown. By editing separate pages, you won't have to worry about overwriting each-other's work. Sometimes, you'll need to "git pull" to update the other person's file before you can push, but that's OK.
+
+Once you have it installed, you should be able to run the website:
+
+jekyll --server 9000 --auto
+
+and then, in your browser, go to:
+
+http://localhost:9000/
+
+and see your edits before you "git push". When you push, you are making your changes visible to the world.
+
+# Markdown Practice
+
+Create a file in the directory called
+
+<username>.md
+
+This way, you'll each have one file. You can view them at
+
+http://localhost:9000/<username>.html
+
+and, after you push:
+
+http://craftofelectronics.org/<username>.html
+
+Then, in each document, use the Markdown documentation 
+
+http://daringfireball.net/projects/markdown/
+
+to create a page that describes the courses you are taking next term as well as the labor position that you have. Use bulleted lists, hyperlinks, and include an image. (I recommend grabbing one from the [Flickr Creative Commons](http://www.flickr.com/creativecommons/) because you can click the "share" link and get the HTML you need to put the picture in your page.)
+
+# VI HINTS
+
+Hit escape to get out of any trouble.
+
+:q! quits without saving changes.
+
+:wq saves your changes and quits.
+
+Pressing 'i' once will put you in insert mode, so you can type. ESC takes you out of insert mode.
+
+'x' deletes. 'X' deletes the other way.
+
+'dd' deletes a whole line.
+
+
+# OLD NOTES - IGNORE
+
 Spanning part of the text in a color lozenge.
 
 <span class="label label-important">
