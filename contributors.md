@@ -34,6 +34,7 @@ The initial design of this course was carried out at Berea College during the su
 
 ### Winter 2012
 * Hatinawedu Mupiwa (Berea College '15) contributed to the course design and provided feedback about the course structure and exercises throughout the winter break.
+* Emmanuel Tachu (Berea College '16) contributed to the course design and provided feedback about the course structure and exercises during the 2012 winter break.
 
 ### Initial Design
 * [Sebastian Dziallas](http://blog.sdziallas.com/) (Olin College '13) spent the summer collaborating closely on the design of *Craft of Electronics*, brainstorming activities and overall course structure.
