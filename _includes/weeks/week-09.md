@@ -10,3 +10,7 @@
 
 {% include days/2013-03-06.md %}
 
+## Friday, Mar 8
+
+{% include days/2013-03-08.md %}
+
