@@ -1,6 +1,8 @@
 ---
-layout: default
-title: Craft of Electronics Resources
+title: Learning Resources
+slug: Resources around the WWW that may be of use.
+category: infra
+layout: post
 ---
 
 # Pencasts

@@ -286,9 +286,9 @@ header li {
 	list-style-type: none;
   width:80%;
   height:15px;
-	margin-bottom: 8px;
+	margin-bottom: 6px;
 	line-height: 1em;
-	padding: 6px 6px 6px 16px;
+	padding: 8px 6px 6px 2px;
 
 /*
   // RED VERSION
@@ -359,46 +359,9 @@ a.buttons {
 	font-weight: normal;
 	font-size: 16px;
 	text-shadow: rgba(0, 0, 0, 0.4) 0 -1px 0;
-	padding: 2px 2px 2px 22px;
+	padding: 0px 0px 0px 2px;
 	height: 30px;
 }
-
-a.downarrow {
-	background: url({{ site.base }}/images/icons/arrow-down.png) no-repeat;
-}
-
-a.home {
-	background: url({{ site.base }}/images/icons/home.png) no-repeat;
-}
-
-a.calendar {
-	background: url({{ site.base }}/images/icons/calendar.png) no-repeat;
-}
-
-a.upload {
-	background: url({{ site.base }}/images/icons/upload.png) no-repeat;
-}
-
-a.book {
-	background: url({{ site.base }}/images/icons/book.png) no-repeat;
-}
-
-a.github {
-	background: url({{ site.base }}/images/icons/octocat-small.png) no-repeat 1px;
-}
-
-a.info {
-  background: url({{ site.base }}/images/icons/information.png) no-repeat 1px;
-}
-
-a.hardware {
-  background: url({{ site.base }}/images/icons/wrench.png) no-repeat 1px;
-}
-
-a.software {
-  background: url({{ site.base }}/images/icons/download.png) no-repeat 1px;
-}
-
 
 a.buttons:hover {
 	color: #fff;
@@ -407,18 +370,6 @@ a.buttons:hover {
 
 
 /* Section - for main page content */
-
-/*
-div.floatright {
-  width:150px;
-  float:right;
-  position:fixed;
-  top:10px;
-  right:10px;
-  background:yellow;
-
-}
-*/
 
 div.floatright {
   /* background-color: #171717; */

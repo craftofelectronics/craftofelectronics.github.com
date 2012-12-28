@@ -23,16 +23,8 @@
         {% include contact-info.html %}
       </header>
       <section>
-      <table width="100%">
-      <tr>
-      <td>
-      <h2> {{ page.title }} </h2>
-      </td>
-      </td></tr></table>
+        <h1>{{page.title}}</h1>
       {{ content }}
-      <p>&nbsp;</p>
-      <hr norule>
-      <h4>Posted on {{ page.date }}</h4>
      </section>
       {% include footer.html %}
     </div>

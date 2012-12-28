@@ -1,6 +1,8 @@
 ---
-layout: default
 title: Contributors
+slug: People who helped make this course happen.
+category: infra
+layout: post
 ---
 
 These pages, and much of the content related to this course, was written and/or
