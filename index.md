@@ -9,7 +9,10 @@ title: Home
   {% capture subtraction %} {{ post.date | date: "%Y%m%d" | minus: site.upto }} {% endcapture %}
   {% if subtraction contains "-" %}
     {% if post.category contains 'week' %}
-    
+
+    {% capture anchor %} {{post.title | downcase | replace: ' ', '-'}} {% endcapture %}
+<h1 id="{{anchor | remove: ' '}}">{{post.title}}</h1>
+<p>{{post.slug}}</p>
 {{ post.content }}
 
     {% endif %}
