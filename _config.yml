@@ -14,8 +14,13 @@ base: /teaching/craftoe-sp13
 media: /teaching/craftoe-sp13/downloads
     
 # Shortcuts
-pdf: <img src="/teaching/craftoe-sp13/images/mini-pdf.png" />
-word: <img src="/teaching/craftoe-sp13/images/mini-word.png" />
+pdf: '<img src="/teaching/craftoe-sp13/images/mini-pdf.png" />'
+word: '<img src="/teaching/craftoe-sp13/images/mini-word.png" />'
+group: '<i class="icon-group" style="margin-top: 6px;"></i>'
+lab: '<i class="icon-beaker" style="margin-top: 6px;"></i>'
+reading: '<i class="icon-book" style="margin-top: 6px;"></i>'
+prof: '<i class="icon-bullhorn" style="margin-top: 6px;"></i>'
+video: '<i class="icon-camera" style="margin-top: 6px;"></i>'
   
 # Server Config
 permalink: /:categories/:title
