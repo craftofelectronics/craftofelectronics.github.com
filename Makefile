@@ -1,5 +1,5 @@
 export SITE=teaching/craftoe-sp13
-MEDIA=media
+MEDIA=downloads
 
 upload:
 	jekyll

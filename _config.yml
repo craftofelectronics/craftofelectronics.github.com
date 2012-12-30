@@ -1,0 +1,27 @@
+# Site Configuration
+title: Craft of Electronics
+number: TAD 265
+tagline: Making Digital Electronics
+markdown: kramdown
+# This is the date that we render "upto."
+upto: "20130126"
+
+# Paths
+## There are no heirarchies of variables; therefore, every
+## path must be complete. A search-replace is necessary with
+## any change to base.
+base: /teaching/craftoe-sp13
+media: /teaching/craftoe-sp13/downloads
+    
+# Shortcuts
+pdf: <img src="/teaching/craftoe-sp13/images/mini-pdf.png" />
+word: <img src="/teaching/craftoe-sp13/images/mini-word.png" />
+  
+# Server Config
+permalink: /:categories/:title
+
+# My Config
+phone: 925-238-3692
+officehours: M 9:30-11:30, T 13:30-15:30, by appt.
+short: CRAFToE
+prof-url: http://www.berea.edu/csc/matt-jadud/
