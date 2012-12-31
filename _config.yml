@@ -14,13 +14,23 @@ base: /teaching/craftoe-sp13
 media: /teaching/craftoe-sp13/downloads
     
 # Shortcuts
+table:
+    start: '| :-: | :- | :-: |'
+    end: '|====+====|'
+
 pdf: '<img src="/teaching/craftoe-sp13/images/mini-pdf.png" />'
 word: '<img src="/teaching/craftoe-sp13/images/mini-word.png" />'
-group: '<i class="icon-group" style="margin-top: 6px;"></i>'
-lab: '<i class="icon-beaker" style="margin-top: 6px;"></i>'
-reading: '<i class="icon-book" style="margin-top: 6px;"></i>'
-prof: '<i class="icon-bullhorn" style="margin-top: 6px;"></i>'
-video: '<i class="icon-camera" style="margin-top: 6px;"></i>'
+
+group: '<i class="icon-group" style="margin-top: 6px;"> </i>'
+lab: '<i class="icon-beaker" style="margin-top: 6px;"> </i>'
+reading: '<i class="icon-book" style="margin-top: 6px;"> </i>'
+prof: '<i class="icon-bullhorn" style="margin-top: 6px;"> </i>'
+video: '<i class="icon-camera" style="margin-top: 6px;"> </i>'
+download: '<i class="icon-download-alt" style="margin-top: 6px;"> </i>'
+cloud: '<i class="icon-cloud" style="margin-top: 6px;"> </i>'
+cart: '<i class="icon-shopping-cart" style="margin-top: 6px;"></i>'
+talk: '<i class="icon-comments-alt" style="margin-top: 6px;"></i>'
+
   
 # Server Config
 permalink: /:categories/:title
