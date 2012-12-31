@@ -10,12 +10,12 @@ upto: "20130126"
 ## There are no heirarchies of variables; therefore, every
 ## path must be complete. A search-replace is necessary with
 ## any change to base.
-base: /teaching/craftoe-sp13
-media: /teaching/craftoe-sp13/downloads
+base:
+media: /downloads
     
 # Shortcuts
 table:
-    start: '| :-: | :- | :-: |'
+    start: '| :-: + :- + :-: |'
     end: '|====+====|'
 
 pdf: '<img src="/teaching/craftoe-sp13/images/mini-pdf.png" />'

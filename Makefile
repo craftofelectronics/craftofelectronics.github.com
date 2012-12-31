@@ -1,4 +1,4 @@
-export SITE=teaching/craftoe-sp13
+export SITE=
 MEDIA=downloads
 
 upload:
@@ -16,7 +16,7 @@ test:
 	@echo #######################################
 	@echo Launch server at http://localhost:9000/${SITE}/
 	@echo #######################################
-	jekyll --server 9000 --auto --base-url /${SITE} 
+	jekyll --server 9000 --auto 
 	# open http://localhost:9000/${SITE}/
 
 kill:
