@@ -4,7 +4,7 @@ number: TAD 265
 tagline: Making Digital Electronics
 markdown: kramdown
 # This is the date that we render "upto."
-upto: "20130126"
+upto: "20130111"
 
 # Paths
 ## There are no heirarchies of variables; therefore, every
@@ -12,14 +12,24 @@ upto: "20130126"
 ## any change to base.
 base:
 media: /downloads
-    
+arse:
+    expanded: Active Reading Support Environment
+    url: /downloads/active-reading-support-environment.docx
+    version: 2
+
+# Submission
+
+moodle:
+    root: http://moodle.berea.edu/
+    a1: http://moodle.berea.edu/
+
 # Shortcuts
 table:
     start: '| :-: + :- + :-: |'
     end: '|====+====|'
 
-pdf: '<img src="/teaching/craftoe-sp13/images/mini-pdf.png" />'
-word: '<img src="/teaching/craftoe-sp13/images/mini-word.png" />'
+pdf: '<img src="/images/mini-pdf.png" />'
+word: '<img src="/images/mini-word.png" />'
 
 group: '<i class="icon-group" style="margin-top: 6px;"> </i>'
 lab: '<i class="icon-beaker" style="margin-top: 6px;"> </i>'
